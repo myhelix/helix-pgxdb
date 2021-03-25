@@ -1,0 +1,1661 @@
+gene	alleles	alleles amp	activity scores	metabolizer status	risk	overall gt freq	non EUR gt freq	AFR gt freq	AMR gt freq	EAS gt freq	EUR gt freq	SAS gt freq	OTHER gt freq
+CYP2C19	[*1,*1]	[*1,*1]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.407	0.7846	0.2384	0.618	0.3722	0.4002	0.2377	0.4283
+CYP2C19	[*1,*17]	[*1,*17]	[1.0,1.5]	RM	Abnormal/Priority/High Risk	0.248	0.3246	0.2427	0.1565	0.009272	0.2662	0.1334	0.219
+CYP2C19	[*1,*2]	[*1,*2]	[1.0,0.0]	LIM	Abnormal/Priority/High Risk	0.1865	0.3834	0.1862	0.1559	0.3722	0.1799	0.3113	0.1903
+CYP2C19	[*2,*17]	[*2,*17]	[0.0,1.5]	IM	Abnormal/Priority/High Risk	0.05698	0.08413	0.08256	0.02279	0.005298	0.05978	0.1242	0.05288
+CYP2C19	[*17,*17]	[*17,*17]	[1.5,1.5]	UM	Abnormal/Priority/High Risk	0.03917	0.03891	0.04283	0.01019	0	0.04386	0.02607	0.02649
+CYP2C19	[*2,*2]	[*2,*2]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.02391	0.06405	0.03042	0.01199	0.09095	0.02089	0.1304	0.02473
+CYP2C19	[*2,*11]	[*2,*11]	[0.0,1.0]	LIM	Abnormal/Priority/High Risk	0.004932	0.002483	0.0006207	0.0002999	0	0.005875	0.001534	0.002173
+CYP2C19	[*1,*4]	[*1,*4]	[1.0,0.0]	LIM	Abnormal/Priority/High Risk	0.004323	0.005795	0	0.005397	0.001325	0.004622	0	0.003622
+CYP2C19	[*2,*11,Incomplete Match]	[*2,*11,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	0.003511	0.001552	0.001241	0.0002999	0	0.004214	0.001534	0.001138
+CYP2C19	[*1,*3]	[*1,*3]	[1.0,0.0]	LIM	Abnormal/Priority/High Risk	0.003308	0.02701	0.0006207	0	0.08344	0.0002417	0	0.007347
+CYP2C19	[*1,*8,Incomplete Match]	[*1,*8,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	0.002938	0.00238	0.001241	0.0008996	0	0.003368	0	0.001863
+CYP2C19	[*2,*3]	[*2,*3]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.001505	0.01283	0	0	0.04724	3.021e-05	0.001534	0.001656
+CYP2C19	[*1,*15]	[*1,*15]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.001457	0.009313	0.02297	0.002099	0	0.0004833	0	0.00476
+CYP2C19	[*1,*35]	[*1,*35]	[1.0,0.0]	LIM	Abnormal/Priority/High Risk	0.001338	0.00952	0.0211	0.003298	0.0004415	0.0003021	0	0.00476
+CYP2C19	[*8,*17,Incomplete Match]	[*8,*17,Incomplete Match]	[0.0,1.5,null]	Unknown	Unknown	0.0009912	0.0007243	0	0.0002999	0	0.001148	0	0.0006209
+CYP2C19	[*1,*13]	[*1,*13]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.0009196	0.007347	0.01986	0.0005997	0	9.062e-05	0	0.003829
+CYP2C19	[*15,*17]	[*15,*17]	[1.0,1.5]	RM	Abnormal/Priority/High Risk	0.0008479	0.004656	0.01304	0.0005997	0	0.0003927	0	0.002276
+CYP2C19	[*2,*4]	[*2,*4]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.000836	0.001552	0	0.0002999	0.002208	0.0008307	0.001534	0.0008278
+CYP2C19	[*2,*8,Incomplete Match]	[*2,*8,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	0.0006449	0.0006209	0	0.0005997	0	0.000725	0	0.0004139
+CYP2C19	[*1,*9]	[*1,*9]	[1.0,0.5]	LIM	Abnormal/Priority/High Risk	0.0006091	0.00507	0.01366	0.0002999	0	3.021e-05	0	0.00269
+CYP2C19	[*1,*17,Incomplete Match]	[*1,*17,Incomplete Match]	[1.0,1.5,null]	Unknown	Unknown	0.0005613	0.0007243	0.001241	0.0002999	0	0.0006042	0	0.0004139
+CYP2C19	[*1,*1,Incomplete Match]	[*1x2,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	0.0005494	0.001138	0.0006207	0.0002999	0	0.0005286	0	0.0009313
+CYP2C19	[*1,*2,Incomplete Match]	[*1,*2,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	0.0005374	0.0004139	0	0.0002999	0	0.0006193	0	0.0003104
+CYP2C19	[*1,*6]	[*1,*6]	[1.0,0.0]	LIM	Abnormal/Priority/High Risk	0.0004896	0.001345	0	0.001499	0	0.0004229	0	0.0008278
+CYP2C19	[*2,*35]	[*2,*35]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0004538	0.00269	0.00807	0.0002999	0	0.0001812	0	0.001242
+CYP2C19	[*17,*35]	[*17,*35]	[1.5,0.0]	IM	Abnormal/Priority/High Risk	0.000418	0.003001	0.009311	0	0	9.062e-05	0	0.001449
+CYP2C19	[*2,*15]	[*2,*15]	[0.0,1.0]	LIM	Abnormal/Priority/High Risk	0.0003941	0.002276	0.006828	0.0005997	0	0.0001661	0	0.0009313
+CYP2C19	[*1,*10]	[*1,*10]	[1.0,0.5]	LIM	Abnormal/Priority/High Risk	0.0003463	0.001759	0.003104	0.0005997	0	0.0001812	0	0.001035
+CYP2C19	[*3,*17]	[*3,*17]	[0.0,1.5]	IM	Abnormal/Priority/High Risk	0.0003224	0.002483	0.0006207	0	0.000883	4.531e-05	0.003067	0.001966
+CYP2C19	[*1,*8]	[*1,*8]	[1.0,0.0]	LIM	Abnormal/Priority/High Risk	0.0003105	0.000207	0	0	0.0004415	0.0003625	0	0.0001035
+CYP2C19	[*13,*17]	[*13,*17]	[1.0,1.5]	RM	Abnormal/Priority/High Risk	0.0003105	0.00269	0.009932	0	0	0	0	0.001035
+CYP2C19	[*1,*30,Incomplete Match]	[*1,*30,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	0.0002508	0.001345	0.002483	0.0005997	0	0.0001208	0	0.0007243
+CYP2C19	[*1,*36]	[*1,*36]	[1.0,0.0]	LIM	Abnormal/Priority/High Risk	0.0002508	0.000207	0	0	0	0.000287	0	0.000207
+CYP2C19	[*9,*17]	[*9,*17]	[0.5,1.5]	LIM	Abnormal/Priority/High Risk	0.0002508	0.001966	0.005587	0	0	3.021e-05	0	0.001035
+CYP2C19	[*3,*3]	[*3,*3]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0002388	0.00207	0	0	0.007506	0	0	0.0003104
+CYP2C19	[*2,*13]	[*2,*13]	[0.0,1.0]	LIM	Abnormal/Priority/High Risk	0.0002269	0.001863	0.007449	0.0002999	0	1.51e-05	0	0.0005174
+CYP2C19	[*4,*17]	[*4,*17]	[0.0,1.5]	IM	Abnormal/Priority/High Risk	0.000215	0	0	0	0	0.0002719	0	0
+CYP2C19	[*1,*11,Incomplete Match]	[*1,*11,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	0.000203	0	0	0	0	0.0002568	0	0
+CYP2C19	[*1,*1,*1]	[*1,*1x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.0001911	0.0003104	0	0.0002999	0	0.0001964	0	0.000207
+CYP2C19	[*1,*33]	[*1,*33]	[1.0,null]	Unknown	Unknown	0.0001911	0.0003104	0	0.0002999	0	0.0001964	0	0.000207
+CYP2C19	[*1,*34,Incomplete Match]	[*1,*34,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	0.0001672	0.001449	0	0	0	0	0.01227	0.0006209
+CYP2C19	[*2,*9]	[*2,*9]	[0.0,0.5]	LPM	Abnormal/Priority/High Risk	0.0001433	0.001138	0.003104	0	0	1.51e-05	0	0.0006209
+CYP2C19	[*1,*22]	[*1,*22]	[1.0,0.0]	LIM	Abnormal/Priority/High Risk	0.0001314	0.001138	0.004345	0	0	0	0	0.0004139
+CYP2C19	[*2,*17,Incomplete Match]	[*2,*17,Incomplete Match]	[0.0,1.5,null]	Unknown	Unknown	0.0001314	0.0001035	0	0	0	0.000151	0	0.0001035
+CYP2C19	[*2,*6]	[*2,*6]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0001194	0.0005174	0	0	0.001325	7.552e-05	0	0.000207
+CYP2C19	[*15,*17,Incomplete Match]	[*15,*17,Incomplete Match]	[1.0,1.5,null]	Unknown	Unknown	0.0001075	0.000207	0.0006207	0	0	0.0001057	0	0.0001035
+CYP2C19	[*17,*17,Incomplete Match]	[*17x2,Incomplete Match]	[1.5,1.5,null]	Unknown	Unknown	0.0001075	0	0	0	0	0.0001359	0	0
+CYP2C19	[*2,*4,Incomplete Match]	[*2,*4,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	9.554e-05	0.0003104	0	0	0.001325	7.552e-05	0	0
+CYP2C19	[*10,*17]	[*10,*17]	[0.5,1.5]	LIM	Abnormal/Priority/High Risk	8.36e-05	0.0003104	0.001241	0.0002999	0	6.042e-05	0	0
+CYP2C19	[*17,*36]	[*17,*36]	[1.5,0.0]	IM	Abnormal/Priority/High Risk	8.36e-05	0	0	0	0	0.0001057	0	0
+CYP2C19	[*1,*1,chr10:94820638:G:A]	[*1,*1,chr10:94820638:G:A]	[1.0,1.0,0.0]	Unknown	Unknown	7.165e-05	0	0	0	0	9.062e-05	0	0
+CYP2C19	[*1,*1,chr10:94843012:C:A]	[*1,*1,chr10:94843012:C:A]	[1.0,1.0,0.0]	Unknown	Unknown	7.165e-05	0.0006209	0	0.001499	0	0	0	0.0001035
+CYP2C19	[*17,*30,Incomplete Match]	[*17,*30,Incomplete Match]	[1.5,null,null]	Unknown	Unknown	5.971e-05	0.0003104	0.001241	0	0	3.021e-05	0	0.0001035
+CYP2C19	[*17,*34,Incomplete Match]	[*17,*34,Incomplete Match]	[1.5,null,null]	Unknown	Unknown	5.971e-05	0.0005174	0	0	0	0	0.003067	0.0003104
+CYP2C19	[*2,*34,Incomplete Match]	[*2,*34,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	5.971e-05	0.0005174	0	0	0	0	0.007669	0
+CYP2C19	[*2,*36]	[*2,*36]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	5.971e-05	0	0	0	0	7.552e-05	0	0
+CYP2C19	[*1,*12]	[*1,*12]	[1.0,null]	Unknown	Unknown	4.777e-05	0.0004139	0.001862	0	0	0	0	0.0001035
+CYP2C19	[*1,*24]	[*1,*24]	[1.0,0.0]	LIM	Abnormal/Priority/High Risk	4.777e-05	0.0004139	0.0006207	0	0	0	0	0.0003104
+CYP2C19	[*1,*34]	[*1,*34]	[1.0,null]	Unknown	Unknown	4.777e-05	0.0004139	0	0	0	0	0.001534	0.0003104
+CYP2C19	[*11,*17]	[*11,*17]	[1.0,1.5]	RM	Abnormal/Priority/High Risk	4.777e-05	0.000207	0.0006207	0	0	3.021e-05	0	0.0001035
+CYP2C19	[*12,*17]	[*12,*17]	[null,1.5]	Unknown	Unknown	4.777e-05	0.0004139	0.0006207	0	0	0	0	0.0003104
+CYP2C19	[*17,*22]	[*17,*22]	[1.5,0.0]	IM	Abnormal/Priority/High Risk	4.777e-05	0.0004139	0.001241	0.0002999	0	0	0	0.0001035
+CYP2C19	[*17,*33]	[*17,*33]	[1.5,null]	Unknown	Unknown	4.777e-05	0	0	0	0	6.042e-05	0	0
+CYP2C19	[*2,*10]	[*2,*10]	[0.0,0.5]	LPM	Abnormal/Priority/High Risk	4.777e-05	0.0003104	0.001241	0	0	1.51e-05	0	0.0001035
+CYP2C19	[*2,*15,Incomplete Match]	[*2,*15,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	4.777e-05	0	0	0	0	6.042e-05	0	0
+CYP2C19	[*2,*22]	[*2,*22]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	4.777e-05	0.0004139	0.001241	0	0	0	0	0.000207
+CYP2C19	[*6,*17]	[*6,*17]	[0.0,1.5]	IM	Abnormal/Priority/High Risk	4.777e-05	0.000207	0	0.0002999	0	3.021e-05	0	0.0001035
+CYP2C19	[*9,*35]	[*9,*35]	[0.5,0.0]	LPM	Abnormal/Priority/High Risk	4.777e-05	0.0004139	0.002483	0	0	0	0	0
+CYP2C19	[*1,*11]	[*1,*11]	[1.0,1.0]	NM	Normal/Routine/Low Risk	3.583e-05	0.0001035	0	0.0002999	0	3.021e-05	0	0
+CYP2C19	[*1,*16,Incomplete Match]	[*1,*16,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	3.583e-05	0.0001035	0	0	0	3.021e-05	0	0.0001035
+CYP2C19	[*1,*17,chr10:94775521:G:T]	[*1,*17,chr10:94775521:G:T]	[1.0,1.5,0.0]	Unknown	Unknown	3.583e-05	0.0001035	0	0	0	3.021e-05	0	0.0001035
+CYP2C19	[*1,*4,Incomplete Match]	[*1,*4,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	3.583e-05	0.0003104	0	0	0.000883	0	0	0.0001035
+CYP2C19	[*17,*17,*17]	[*17,*17x2]	[1.5,1.5,1.5]	UM	Abnormal/Priority/High Risk	3.583e-05	0	0	0	0	4.531e-05	0	0
+CYP2C19	[*17,*17,chr10:94775521:G:T]	[*17,*17,chr10:94775521:G:T]	[1.5,1.5,0.0]	Unknown	Unknown	3.583e-05	0	0	0	0	4.531e-05	0	0
+CYP2C19	[*17,*24]	[*17,*24]	[1.5,0.0]	IM	Abnormal/Priority/High Risk	3.583e-05	0.000207	0	0	0	1.51e-05	0	0.000207
+CYP2C19	[*2,*24]	[*2,*24]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	3.583e-05	0.0001035	0	0	0	3.021e-05	0	0.0001035
+CYP2C19	[*4,*11,Incomplete Match]	[*4,*11,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	3.583e-05	0	0	0	0	4.531e-05	0	0
+CYP2C19	[*1,*1,*2]	[*1x2,*2]	[1.0,1.0,0.0]	IM	Abnormal/Priority/High Risk	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*1,*1,*2,*2]	[*1x2,*2x2]	[1.0,1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	2.388e-05	0.0001035	0	0	0.0004415	1.51e-05	0	0
+CYP2C19	[*1,*1,chr10:94775537:AG:A]	[*1,*1,chr10:94775537:AG:A]	[1.0,1.0,0.0]	Unknown	Unknown	2.388e-05	0.0001035	0	0.0002999	0	1.51e-05	0	0
+CYP2C19	[*1,*15,Incomplete Match]	[*1,*15,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	2.388e-05	0.000207	0	0	0	0	0	0.000207
+CYP2C19	[*1,*17,chr10:94820638:G:A]	[*1,*17,chr10:94820638:G:A]	[1.0,1.5,0.0]	Unknown	Unknown	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*1,*18]	[*1,*18]	[1.0,1.0]	NM	Normal/Routine/Low Risk	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*1,*2,chr10:94820638:G:A]	[*1,*2,chr10:94820638:G:A]	[1.0,0.0,0.0]	LIM	Abnormal/Priority/High Risk	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*1,*2,chr10:94843012:C:A]	[*1,*2,chr10:94843012:C:A]	[1.0,0.0,0.0]	LIM	Abnormal/Priority/High Risk	2.388e-05	0.000207	0	0.0002999	0	0	0	0.0001035
+CYP2C19	[*1,*35,Incomplete Match]	[*1,*35,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*1,*5]	[*1,*5]	[1.0,0.0]	LIM	Abnormal/Priority/High Risk	2.388e-05	0.0001035	0	0	0.0004415	1.51e-05	0	0
+CYP2C19	[*1,*9,Incomplete Match]	[*1,*9,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*11,*17,Incomplete Match]	[*11,*17,Incomplete Match]	[1.0,1.5,null]	Unknown	Unknown	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*16,*17,Incomplete Match]	[*16,*17,Incomplete Match]	[0.5,1.5,null]	Unknown	Unknown	2.388e-05	0.0001035	0	0	0	1.51e-05	0	0.0001035
+CYP2C19	[*16,*35,Incomplete Match]	[*16,*35,Incomplete Match]	[0.5,0.0,null]	Unknown	Unknown	2.388e-05	0.000207	0	0	0	0	0	0.000207
+CYP2C19	[*17,*18]	[*17,*18]	[1.5,1.0]	RM	Abnormal/Priority/High Risk	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*2,*12]	[*2,*12]	[0.0,null]	Unknown	Unknown	2.388e-05	0.000207	0.0006207	0	0	0	0	0.0001035
+CYP2C19	[*2,*16,Incomplete Match]	[*2,*16,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*2,*17,chr10:94775521:G:T]	[*2,*17,chr10:94775521:G:T]	[0.0,1.5,0.0]	IM	Abnormal/Priority/High Risk	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*2,*2,Incomplete Match]	[*2x2,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	2.388e-05	0.000207	0	0	0.0004415	0	0.001534	0
+CYP2C19	[*2,*24,Incomplete Match]	[*2,*24,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	2.388e-05	0.0001035	0.0006207	0	0	1.51e-05	0	0
+CYP2C19	[*2,*30,Incomplete Match]	[*2,*30,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	2.388e-05	0.000207	0.0006207	0	0.0004415	0	0	0
+CYP2C19	[*2,*33]	[*2,*33]	[0.0,null]	Unknown	Unknown	2.388e-05	0.0001035	0	0.0002999	0	1.51e-05	0	0
+CYP2C19	[*4,*35]	[*4,*35]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*4,*4]	[*4,*4]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	2.388e-05	0.0001035	0	0	0	1.51e-05	0	0.0001035
+CYP2C19	[*4,*8,Incomplete Match]	[*4,*8,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	2.388e-05	0	0	0	0	3.021e-05	0	0
+CYP2C19	[*9,*15]	[*9,*15]	[0.5,1.0]	LIM	Abnormal/Priority/High Risk	2.388e-05	0.000207	0.0006207	0	0	0	0	0.0001035
+CYP2C19	[*1,*1,*1,*1,Incomplete Match]	[*1x4,Incomplete Match]	[1.0,1.0,1.0,1.0,null]	Unknown	Unknown	1.194e-05	0.0001035	0	0.0002999	0	0	0	0
+CYP2C19	[*1,*1,*17]	[*1x2,*17]	[1.0,1.0,1.5]	UM	Abnormal/Priority/High Risk	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*1,*17,*17]	[*1x2,*17x2]	[1.0,1.0,1.5,1.5]	UM	Abnormal/Priority/High Risk	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*1,chr10:94762803:C:CTA]	[*1,*1,chr10:94762803:C:CTA]	[1.0,1.0,0.0]	Unknown	Unknown	1.194e-05	0.0001035	0	0	0.0004415	0	0	0
+CYP2C19	[*1,*1,chr10:94762835:CAGAT:C]	[*1,*1,chr10:94762835:CAGAT:C]	[1.0,1.0,0.0]	Unknown	Unknown	1.194e-05	0.0001035	0	0	0	0	0.001534	0
+CYP2C19	[*1,*1,chr10:94843025:G:C]	[*1,*1,chr10:94843025:G:C]	[1.0,1.0,0.0]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*1,chr10:94849958:CA:C]	[*1,*1,chr10:94849958:CA:C]	[1.0,1.0,0.0]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*16]	[*1,*16]	[1.0,0.5]	LIM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0	0	0	0	0	0.0001035
+CYP2C19	[*1,*17,chr10:94775062:C:CA]	[*1,*17,chr10:94775062:C:CA]	[1.0,1.5,0.0]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*17,chr10:94775426:TC:T]	[*1,*17,chr10:94775426:TC:T]	[1.0,1.5,0.0]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*17,chr10:94775460:TG:T]	[*1,*17,chr10:94775460:TG:T]	[1.0,1.5,0.0]	Unknown	Unknown	1.194e-05	0.0001035	0	0	0	0	0	0.0001035
+CYP2C19	[*1,*17,chr10:94775537:AG:A]	[*1,*17,chr10:94775537:AG:A]	[1.0,1.5,0.0]	Unknown	Unknown	1.194e-05	0.0001035	0	0	0	0	0	0.0001035
+CYP2C19	[*1,*17,chr10:94781932:C:T]	[*1,*17,chr10:94781932:C:T]	[1.0,1.5,0.0]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*17,chr10:94820494:A:C]	[*1,*17,chr10:94820494:A:C]	[1.0,1.5,0.0]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*17,chr10:94842838:TA:T]	[*1,*17,chr10:94842838:TA:T]	[1.0,1.5,0.0]	Unknown	Unknown	1.194e-05	0.0001035	0	0	0	0	0	0.0001035
+CYP2C19	[*1,*17,chr10:94849930:T:A]	[*1,*17,chr10:94849930:T:A]	[1.0,1.5,0.0]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*17,chr10:94850059:G:A]	[*1,*17,chr10:94850059:G:A]	[1.0,1.5,0.0]	Unknown	Unknown	1.194e-05	0.0001035	0	0.0002999	0	0	0	0
+CYP2C19	[*1,*2,chr10:94775537:AG:A]	[*1,*2,chr10:94775537:AG:A]	[1.0,0.0,0.0]	LIM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0	0	0	0	0	0.0001035
+CYP2C19	[*1,*2,chr10:94780661:T:C]	[*1,*2,chr10:94780661:T:C]	[1.0,0.0,0.0]	LIM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0	0	0	0	0	0.0001035
+CYP2C19	[*1,*2,chr10:94781932:C:T]	[*1,*2,chr10:94781932:C:T]	[1.0,0.0,0.0]	LIM	Abnormal/Priority/High Risk	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*2,chr10:94849958:CA:C]	[*1,*2,chr10:94849958:CA:C]	[1.0,0.0,0.0]	LIM	Abnormal/Priority/High Risk	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*25]	[*1,*25]	[1.0,0.5]	LIM	Abnormal/Priority/High Risk	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*30]	[*1,*30]	[1.0,null]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*33,Incomplete Match]	[*1,*33,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*35,chr10:94762835:C:T]	[*1,*35,chr10:94762835:C:T]	[1.0,0.0,0.0]	LIM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0.0006207	0	0	0	0	0
+CYP2C19	[*1,*4,chr10:94781986:A:T]	[*1,*4,chr10:94781986:A:T]	[1.0,0.0,0.0]	LIM	Abnormal/Priority/High Risk	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*6,Incomplete Match]	[*1,*6,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*1,*9,chr10:94820495:G:C]	[*1,*9,chr10:94820495:G:C]	[1.0,0.5,0.0]	LIM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0	0	0	0	0	0.0001035
+CYP2C19	[*13,*15]	[*13,*15]	[1.0,1.0]	NM	Normal/Routine/Low Risk	1.194e-05	0.0001035	0.0006207	0	0	0	0	0
+CYP2C19	[*13,*35]	[*13,*35]	[1.0,0.0]	LIM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0	0	0	0	0	0.0001035
+CYP2C19	[*15,*35,Incomplete Match]	[*15,*35,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	1.194e-05	0.0001035	0.0006207	0	0	0	0	0
+CYP2C19	[*17,*25]	[*17,*25]	[1.5,0.5]	LIM	Abnormal/Priority/High Risk	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*17,*30]	[*17,*30]	[1.5,null]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*2,*17,*17]	[*2,*17x2]	[0.0,1.5,1.5]	UM	Abnormal/Priority/High Risk	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*2,*18,Incomplete Match]	[*2,*18,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*2,*2,*17,*17]	[*2x2,*17x2]	[0.0,0.0,1.5,1.5]	UM	Abnormal/Priority/High Risk	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*2,*2,chr10:94842965:A:AC]	[*2,*2,chr10:94842965:A:AC]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0	0	0	0	0	0.0001035
+CYP2C19	[*2,*5]	[*2,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0	0	0	0	0	0.0001035
+CYP2C19	[*2,*6,Incomplete Match]	[*2,*6,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*2,*9,chr10:94820495:G:C]	[*2,*9,chr10:94820495:G:C]	[0.0,0.5,0.0]	LPM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0	0	0	0	0	0.0001035
+CYP2C19	[*3,*33]	[*3,*33]	[0.0,null]	Unknown	Unknown	1.194e-05	0.0001035	0	0	0.0004415	0	0	0
+CYP2C19	[*3,*4]	[*3,*4]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0	0	0.0004415	0	0	0
+CYP2C19	[*35,*35]	[*35,*35]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0.0006207	0	0	0	0	0
+CYP2C19	[*4,*17,Incomplete Match]	[*4,*17,Incomplete Match]	[0.0,1.5,null]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*6,*17,Incomplete Match]	[*6,*17,Incomplete Match]	[0.0,1.5,null]	Unknown	Unknown	1.194e-05	0	0	0	0	1.51e-05	0	0
+CYP2C19	[*9,*12]	[*9,*12]	[0.5,null]	Unknown	Unknown	1.194e-05	0.0001035	0.0006207	0	0	0	0	0
+CYP2C19	[*9,*13]	[*9,*13]	[0.5,1.0]	LIM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0.0006207	0	0	0	0	0
+CYP2C19	[*9,*22]	[*9,*22]	[0.5,0.0]	LPM	Abnormal/Priority/High Risk	1.194e-05	0.0001035	0.0006207	0	0	0	0	0
+CYP2C19	[*1,*17,*17]	[*1,*17x2]	[1.0,1.5,1.5]	UM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2C19	[*1,*3,*3]	[*1,*3x2]	[1.0,0.0,0.0]	LIM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2C19	[*2,*2,*17]	[*2x2,*17]	[0.0,0.0,1.5]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2C19	[*2,*30]	[*2,*30]	[0.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2C19	[*2,*8]	[*2,*8]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2C19	[*8,*17]	[*8,*17]	[0.0,1.5]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2C9	[*1,*1]	[*1,*1]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.6505	1.299	0.6155	0.7544	0.926	0.6327	0.6985	0.6767
+CYP2C9	[*1,*2]	[*1,*2]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	0.1866	0.2072	0.03108	0.1285	0.003939	0.2055	0.07576	0.1519
+CYP2C9	[*1,*3]	[*1,*3]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.09955	0.1297	0.01584	0.07429	0.04508	0.1068	0.1561	0.08076
+CYP2C9	[*2,*3]	[*2,*3]	[0.5,0.0]	PM	Abnormal/Priority/High Risk	0.01473	0.01275	0.0006094	0.005307	0.0004376	0.01674	0.009091	0.01012
+CYP2C9	[*2,*2]	[*2,*2]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.01454	0.01154	0.0006094	0.00737	0	0.01668	0.00303	0.008704
+CYP2C9	[*1,*9]	[*1,*9]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.005219	0.042	0.1237	0.00796	0	0.0004987	0	0.01872
+CYP2C9	[*3,*3]	[*3,*3]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.00451	0.005364	0	0.002358	0.001751	0.004914	0.01515	0.003137
+CYP2C9	[*1,*8]	[*1,*8]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	0.004498	0.0334	0.09994	0.005896	0.0004376	0.000836	0	0.01467
+CYP2C9	[*1,*11]	[*1,*11]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	0.00444	0.01053	0.0262	0.002064	0	0.004078	0.001515	0.005364
+CYP2C9	[*1,*12]	[*1,*12]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	0.004254	0.004149	0.0006094	0.002653	0	0.004767	0	0.003137
+CYP2C9	[*1,*6]	[*1,*6]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0008252	0.006477	0.02072	0.0005896	0	0.0001027	0	0.002834
+CYP2C9	[*2,*12]	[*2,*12]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.000802	0.0008096	0	0.0002948	0	0.0008947	0	0.0007084
+CYP2C9	[*1,*5]	[*1,*5]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	0.000616	0.004858	0.01219	0.001769	0	7.334e-05	0	0.002226
+CYP2C9	[*2,*11]	[*2,*11]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.0005579	0.0009108	0.001219	0	0	0.000572	0	0.0007084
+CYP2C9	[*1,*29]	[*1,*29]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	0.0004882	0.001012	0	0.0002948	0.001313	0.0004694	0	0.0006072
+CYP2C9	[*1,*14]	[*1,*14]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	0.0004649	0.003137	0	0	0	0.000132	0.02879	0.001214
+CYP2C9	[*3,*12]	[*3,*12]	[0.0,0.5]	PM	Abnormal/Priority/High Risk	0.0003836	0.0003036	0	0	0	0.00044	0	0.0003036
+CYP2C9	[*1,*1,*1]	[*1,*1x2]	[1.0,1.0,1.0]	Unknown	Unknown	0.0003254	0.000506	0.0006094	0	0.0004376	0.0003373	0	0.0003036
+CYP2C9	[*1,*45]	[*1,*45]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0003138	0.0006072	0	0.0005896	0	0.000308	0	0.0004048
+CYP2C9	[*2,*9]	[*2,*9]	[0.5,1.0]	IM	Abnormal/Priority/High Risk	0.0003138	0.00253	0.001828	0.0005896	0	2.933e-05	0	0.002024
+CYP2C9	[*3,*11]	[*3,*11]	[0.0,0.5]	PM	Abnormal/Priority/High Risk	0.0003138	0.0006072	0	0	0	0.000308	0	0.0006072
+CYP2C9	[*1,*21]	[*1,*21]	[1.0,null]	Unknown	Unknown	0.0002673	0.0008096	0	0.0002948	0	0.00022	0	0.0007084
+CYP2C9	[*2,*8]	[*2,*8]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.0002673	0.002024	0.003047	0.0002948	0	4.4e-05	0	0.001417
+CYP2C9	[*8,*9]	[*8,*9]	[0.5,1.0]	IM	Abnormal/Priority/High Risk	0.0002325	0.002024	0.007313	0	0	0	0	0.0008096
+CYP2C9	[*1,*36]	[*1,*36]	[1.0,null]	Unknown	Unknown	0.0002208	0.001113	0.0006094	0.0005896	0.001751	0.0001173	0.001515	0.0003036
+CYP2C9	[*1,*44]	[*1,*44]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	0.0002208	0.0007084	0	0.0005896	0.001313	0.000176	0	0.0002024
+CYP2C9	[*9,*9]	[*9,*9]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.0002092	0.001822	0.009141	0	0	0	0	0.0003036
+CYP2C9	[*1,*61]	[*1,*61]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	0.0001976	0.00172	0	0.0008844	0	0	0	0.001417
+CYP2C9	[*9,*11]	[*9,*11]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	0.0001976	0.001518	0.006703	0	0	2.933e-05	0	0.0004048
+CYP2C9	[*2,*36]	[*2,*36]	[0.5,null]	Unknown	Unknown	0.0001627	0.0002024	0	0	0	0.000176	0	0.0002024
+CYP2C9	[*3,*9]	[*3,*9]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.0001627	0.001316	0.001219	0.0005896	0	1.467e-05	0	0.0009108
+CYP2C9	[*3,*45]	[*3,*45]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0001395	0.0001012	0	0	0	0.0001613	0	0.0001012
+CYP2C9	[*3,*8]	[*3,*8]	[0.0,0.5]	PM	Abnormal/Priority/High Risk	0.0001395	0.0009108	0	0.0002948	0	4.4e-05	0	0.0008096
+CYP2C9	[*1,*13]	[*1,*13]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0001279	0.001113	0	0	0.004376	0	0	0.0001012
+CYP2C9	[*2,*14]	[*2,*14]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.0001279	0.0007084	0	0	0	5.867e-05	0.00303	0.000506
+CYP2C9	[*1,*42]	[*1,*42]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0001046	0.0001012	0	0	0.0004376	0.0001173	0	0
+CYP2C9	[*1,*31]	[*1,*31]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	9.298e-05	0.0007084	0.0006094	0	0.002188	1.467e-05	0	0.0001012
+CYP2C9	[*5,*36]	[*5,*36]	[0.5,null]	Unknown	Unknown	9.298e-05	0.0008096	0.003656	0	0	0	0	0.0002024
+CYP2C9	[*8,*8]	[*8,*8]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	9.298e-05	0.0008096	0.001828	0	0	0	0	0.000506
+CYP2C9	[*3,*14]	[*3,*14]	[0.0,0.5]	PM	Abnormal/Priority/High Risk	8.136e-05	0.000506	0	0	0	2.933e-05	0.00303	0.0003036
+CYP2C9	[*1,*19]	[*1,*19]	[1.0,null]	Unknown	Unknown	6.974e-05	0.0006072	0	0	0.002626	0	0	0
+CYP2C9	[*1,*27]	[*1,*27]	[1.0,null]	Unknown	Unknown	6.974e-05	0.0006072	0	0	0.002188	0	0	0.0001012
+CYP2C9	[*2,*6]	[*2,*6]	[0.5,0.0]	PM	Abnormal/Priority/High Risk	6.974e-05	0.000506	0.0006094	0	0	1.467e-05	0	0.0004048
+CYP2C9	[*3,*29]	[*3,*29]	[0.0,0.5]	PM	Abnormal/Priority/High Risk	6.974e-05	0.0001012	0	0	0	7.334e-05	0	0.0001012
+CYP2C9	[*1,*33]	[*1,*33]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	5.811e-05	0.0002024	0	0.0002948	0.0004376	4.4e-05	0	0
+CYP2C9	[*2,*29]	[*2,*29]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	5.811e-05	0.0001012	0	0	0	5.867e-05	0	0.0001012
+CYP2C9	[*3,*36]	[*3,*36]	[0.0,null]	Unknown	Unknown	5.811e-05	0.0001012	0	0	0	5.867e-05	0	0.0001012
+CYP2C9	[*3,*6]	[*3,*6]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	5.811e-05	0.0004048	0.0006094	0	0	1.467e-05	0	0.0003036
+CYP2C9	[*6,*8]	[*6,*8]	[0.0,0.5]	PM	Abnormal/Priority/High Risk	5.811e-05	0.000506	0.001828	0	0	0	0	0.0002024
+CYP2C9	[*1,*1,chr10:94981191:CA:C]	[*1,*1,chr10:94981191:CA:C]	[1.0,1.0,0.0]	Unknown	Unknown	4.649e-05	0	0	0	0	5.867e-05	0	0
+CYP2C9	[*1,*16]	[*1,*16]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	4.649e-05	0.0004048	0	0	0.001751	0	0	0
+CYP2C9	[*2,*21]	[*2,*21]	[0.5,null]	Unknown	Unknown	4.649e-05	0.0003036	0	0	0	1.467e-05	0	0.0003036
+CYP2C9	[*2,*45]	[*2,*45]	[0.5,0.0]	PM	Abnormal/Priority/High Risk	4.649e-05	0	0	0	0	5.867e-05	0	0
+CYP2C9	[*2,*5]	[*2,*5]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	4.649e-05	0.0003036	0	0.0002948	0	1.467e-05	0	0.0002024
+CYP2C9	[*5,*36,Incomplete Match]	[*5,*36,Incomplete Match]	[0.5,null,null]	Unknown	Unknown	4.649e-05	0.0004048	0.0006094	0	0	0	0	0.0003036
+CYP2C9	[*5,*9]	[*5,*9]	[0.5,1.0]	IM	Abnormal/Priority/High Risk	4.649e-05	0.0004048	0.001219	0	0	0	0	0.0002024
+CYP2C9	[*6,*9]	[*6,*9]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	4.649e-05	0.0004048	0.002438	0	0	0	0	0
+CYP2C9	[*8,*11]	[*8,*11]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	4.649e-05	0.0004048	0.002438	0	0	0	0	0
+CYP2C9	[*1,*1,Incomplete Match]	[*1x2,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	3.487e-05	0.0001012	0	0	0	2.933e-05	0.001515	0
+CYP2C9	[*1,*1,chr10:94981191:C:T]	[*1,*1,chr10:94981191:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	3.487e-05	0	0	0	0	4.4e-05	0	0
+CYP2C9	[*1,*3,chr10:94981371:G:A]	[*1,*3,chr10:94981371:G:A]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	3.487e-05	0.0001012	0	0	0	2.933e-05	0.001515	0
+CYP2C9	[*1,*34]	[*1,*34]	[1.0,null]	Unknown	Unknown	3.487e-05	0	0	0	0	4.4e-05	0	0
+CYP2C9	[*1,*54]	[*1,*54]	[1.0,null]	Unknown	Unknown	3.487e-05	0.0002024	0	0	0	1.467e-05	0	0.0002024
+CYP2C9	[*10,*12]	[*10,*12]	[null,0.5]	Unknown	Unknown	3.487e-05	0	0	0	0	4.4e-05	0	0
+CYP2C9	[*2,*33]	[*2,*33]	[0.5,0.0]	PM	Abnormal/Priority/High Risk	3.487e-05	0.0003036	0	0.0002948	0	0	0.001515	0.0001012
+CYP2C9	[*1,*1,*2]	[*1x2,*2]	[1.0,1.0,0.5]	Unknown	Unknown	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*1,*1,chr10:94941857:G:C]	[*1,*1,chr10:94941857:G:C]	[1.0,1.0,0.0]	Unknown	Unknown	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*1,*1,chr10:94972102:A:G]	[*1,*1,chr10:94972102:A:G]	[1.0,1.0,0.0]	Unknown	Unknown	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*1,*1,chr10:94986175:G:T]	[*1,*1,chr10:94986175:G:T]	[1.0,1.0,0.0]	Unknown	Unknown	2.325e-05	0.0002024	0	0	0.0008753	0	0	0
+CYP2C9	[*1,*22]	[*1,*22]	[1.0,null]	Unknown	Unknown	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*1,*23]	[*1,*23]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*1,*3,chr10:94972246:G:A]	[*1,*3,chr10:94972246:G:A]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*1,*32]	[*1,*32]	[1.0,null]	Unknown	Unknown	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*1,*35]	[*1,*35]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*1,*39]	[*1,*39]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*1,*41]	[*1,*41]	[1.0,null]	Unknown	Unknown	2.325e-05	0.0002024	0	0	0.0004376	0	0	0.0001012
+CYP2C9	[*1,*41,Incomplete Match]	[*1,*41,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*1,*43]	[*1,*43]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	2.325e-05	0.0001012	0	0	0	1.467e-05	0	0.0001012
+CYP2C9	[*1,*46]	[*1,*46]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	2.325e-05	0.0002024	0	0	0.0004376	0	0	0.0001012
+CYP2C9	[*2,*3,Incomplete Match]	[*2,*3,Incomplete Match]	[0.5,0.0,null]	Unknown	Unknown	2.325e-05	0.0001012	0.0006094	0	0	1.467e-05	0	0
+CYP2C9	[*2,*32]	[*2,*32]	[0.5,null]	Unknown	Unknown	2.325e-05	0.0002024	0	0	0	0	0	0.0002024
+CYP2C9	[*2,*44]	[*2,*44]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*3,*21]	[*3,*21]	[0.0,null]	Unknown	Unknown	2.325e-05	0.0001012	0	0	0	1.467e-05	0	0.0001012
+CYP2C9	[*3,*35]	[*3,*35]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	2.325e-05	0	0	0	0	2.933e-05	0	0
+CYP2C9	[*3,*36,Incomplete Match]	[*3,*36,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	2.325e-05	0.0001012	0	0	0	1.467e-05	0	0.0001012
+CYP2C9	[*3,*44]	[*3,*44]	[0.0,0.5]	PM	Abnormal/Priority/High Risk	2.325e-05	0.0001012	0	0.0002948	0	1.467e-05	0	0
+CYP2C9	[*3,*5]	[*3,*5]	[0.0,0.5]	PM	Abnormal/Priority/High Risk	2.325e-05	0.0002024	0	0	0	0	0	0.0002024
+CYP2C9	[*5,*8]	[*5,*8]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	2.325e-05	0.0002024	0.001219	0	0	0	0	0
+CYP2C9	[*1,*1,*2,*2]	[*1x2,*2x2]	[1.0,1.0,0.5,0.5]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*1,*3]	[*1x2,*3]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*1,*3,*3]	[*1x2,*3x2]	[1.0,1.0,0.0,0.0]	NM	Normal/Routine/Low Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*1,*1,chr10:94938803:A:AT]	[*1,*1,chr10:94938803:A:AT]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0.0004376	0	0	0
+CYP2C9	[*1,*1,chr10:94941860:CT:C]	[*1,*1,chr10:94941860:CT:C]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*1,chr10:94941929:T:A]	[*1,*1,chr10:94941929:T:A]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*1,*1,chr10:94942022:T:G]	[*1,*1,chr10:94942022:T:G]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*1,chr10:94942342:G:T]	[*1,*1,chr10:94942342:G:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0.0004376	0	0	0
+CYP2C9	[*1,*1,chr10:94947885:CTT:C]	[*1,*1,chr10:94947885:CTT:C]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0.0006094	0	0	0	0	0
+CYP2C9	[*1,*1,chr10:94949107:G:T]	[*1,*1,chr10:94949107:G:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*1,chr10:94949128:TA:T]	[*1,*1,chr10:94949128:TA:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*1,chr10:94949201:GA:G]	[*1,*1,chr10:94949201:GA:G]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0	0.0002948	0	0	0	0
+CYP2C9	[*1,*1,chr10:94949213:G:T]	[*1,*1,chr10:94949213:G:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*1,chr10:94949246:C:T]	[*1,*1,chr10:94949246:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*1,chr10:94949285:G:A]	[*1,*1,chr10:94949285:G:A]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*1,chr10:94972116:C:T]	[*1,*1,chr10:94972116:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*1,chr10:94972247:T:A]	[*1,*1,chr10:94972247:T:A]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*1,*1,chr10:94981371:G:T]	[*1,*1,chr10:94981371:G:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*14,Incomplete Match]	[*1,*14,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*1,*17]	[*1,*17]	[1.0,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*2,*2]	[*1,*2x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*2,chr10:94941925:GA:G]	[*1,*2,chr10:94941925:GA:G]	[1.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*2,chr10:94947879:TCTTAA:T]	[*1,*2,chr10:94947879:TCTTAA:T]	[1.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*2,chr10:94986031:A:G]	[*1,*2,chr10:94986031:A:G]	[1.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*1,*26]	[*1,*26]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0.0004376	0	0	0
+CYP2C9	[*1,*3,Incomplete Match]	[*1,*3,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*3,chr10:94938784:T:TGG,chr10:94938785:CCTCT:C]	[*1,*3,chr10:94938784:T:TGG,chr10:94938785:CCTCT:C]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*3,chr10:94949277:TG:T]	[*1,*3,chr10:94949277:TG:T]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*3,chr10:94972102:A:G]	[*1,*3,chr10:94972102:A:G]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*3,chr10:94981191:C:T]	[*1,*3,chr10:94981191:C:T]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*3,chr10:94981191:CA:C]	[*1,*3,chr10:94981191:CA:C]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*1,*30]	[*1,*30]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*1,*49]	[*1,*49]	[1.0,null]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*1,*8,*8]	[*1,*8x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	1.162e-05	0.0001012	0.0006094	0	0	0	0	0
+CYP2C9	[*11,*12]	[*11,*12]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*12,*36,Incomplete Match]	[*12,*36,Incomplete Match]	[0.5,null,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*2,*11,Incomplete Match]	[*2,*11,Incomplete Match]	[0.5,0.5,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*2,*13]	[*2,*13]	[0.5,0.0]	PM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*2,*27]	[*2,*27]	[0.5,null]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*2,*3,chr10:94947879:TCTTAA:T]	[*2,*3,chr10:94947879:TCTTAA:T]	[0.5,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*2,*31]	[*2,*31]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*2,*33,Incomplete Match]	[*2,*33,Incomplete Match]	[0.5,0.0,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*2,*36,Incomplete Match]	[*2,*36,Incomplete Match]	[0.5,null,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*2,*43]	[*2,*43]	[0.5,0.0]	PM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*2,*44,Incomplete Match]	[*2,*44,Incomplete Match]	[0.5,0.5,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*21,*21]	[*21,*21]	[null,null]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*29,*29]	[*29,*29]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*3,*14,Incomplete Match]	[*3,*14,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*3,*19]	[*3,*19]	[0.0,null]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0.0004376	0	0	0
+CYP2C9	[*3,*3,*3]	[*3,*3x2]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*3,*33]	[*3,*33]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*3,*33,Incomplete Match]	[*3,*33,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*3,*34]	[*3,*34]	[0.0,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*3,*37]	[*3,*37]	[0.0,0.5]	PM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*3,*39]	[*3,*39]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*3,*41]	[*3,*41]	[0.0,null]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*3,*42]	[*3,*42]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*3,*43,Incomplete Match]	[*3,*43,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*3,*45,Incomplete Match]	[*3,*45,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*3,*8,Incomplete Match]	[*3,*8,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.467e-05	0	0
+CYP2C9	[*5,*11]	[*5,*11]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*5,*31]	[*5,*31]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*6,*11]	[*6,*11]	[0.0,0.5]	PM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0.0006094	0	0	0	0	0
+CYP2C9	[*6,*12]	[*6,*12]	[0.0,0.5]	PM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*61,*61]	[*61,*61]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*8,*35]	[*8,*35]	[0.5,0.0]	PM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*9,*11,Incomplete Match]	[*9,*11,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	1.162e-05	0.0001012	0.0006094	0	0	0	0	0
+CYP2C9	[*9,*12]	[*9,*12]	[1.0,0.5]	IM	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0.0006094	0	0	0	0	0
+CYP2C9	[*9,*21]	[*9,*21]	[1.0,null]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP2C9	[*9,*36]	[*9,*36]	[1.0,null]	Unknown	Unknown	1.162e-05	0.0001012	0.0006094	0	0	0	0	0
+CYP2C9	[*1,*3,*3]	[*1,*3x2]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*1]	[*1,*1]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.1283	0.271	0.09091	0.2602	0.08711	0.1222	0.1465	0.1387
+CYP2D6	[*1,*2]	[*1,*2]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.1081	0.215	0.07586	0.1589	0.05979	0.1048	0.1608	0.1247
+CYP2D6	[*1,*4]	[*1,*4]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.08546	0.101	0.01129	0.08968	0.0005155	0.09291	0.0414	0.06543
+CYP2D6	[*1,*41]	[*1,*41]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.06425	0.08197	0.00815	0.04255	0.01649	0.06898	0.1003	0.05595
+CYP2D6	[*2,*4]	[*2,*4]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.03741	0.04488	0.00815	0.03092	0.0005155	0.04057	0.03503	0.03045
+CYP2D6	[*1,*35]	[*1,*35]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.03614	0.0393	0.003135	0.02663	0.001031	0.03979	0.006369	0.02897
+CYP2D6	[*1,*4,*68]	[*1,*4,*68]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.03296	0.03382	0.003762	0.02296	0	0.03658	0.006369	0.02487
+CYP2D6	[*2,*41]	[*2,*41]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.02875	0.03688	0.004389	0.01714	0.01082	0.03084	0.0621	0.02392
+CYP2D6	[*2,*2]	[*2,*2]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.02347	0.04594	0.01442	0.02877	0.01031	0.02287	0.03503	0.02919
+CYP2D6	[*4,*41]	[*4,*41]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.02243	0.01812	0.000627	0.006734	0.0005155	0.02561	0.02548	0.01391
+CYP2D6	[*1,*5]	[*1,*5]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.02235	0.0452	0.03636	0.02173	0.0268	0.02157	0.01592	0.02508
+CYP2D6	[*4,*4]	[*4,*4]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.01681	0.01243	0.001881	0.00704	0	0.01935	0.01274	0.00885
+CYP2D6	[*1,*9]	[*1,*9]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.01639	0.01559	0.001254	0.01439	0	0.01837	0	0.01043
+CYP2D6	[*2,*35]	[*2,*35]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.01502	0.01296	0.000627	0.008877	0.0005155	0.01703	0.001592	0.009588
+CYP2D6	[*2,*4,*68]	[*2,*4,*68]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.01374	0.01443	0.003135	0.007346	0	0.01521	0.006369	0.01096
+CYP2D6	[*1,*10]	[*1,*10]	[1.0,0.25]	NM	Normal/Routine/Low Risk	0.01328	0.04794	0.01944	0.01224	0.09639	0.00976	0.03822	0.01823
+CYP2D6	[*4,*35]	[*4,*35]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.01243	0.005374	0.000627	0.004591	0	0.01487	0.001592	0.003582
+CYP2D6	[*4,*4,*68]	[*4,*4,*68]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0.01101	0.006638	0	0.003061	0	0.0129	0	0.005584
+CYP2D6	[*2,*5]	[*2,*5]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.01021	0.02023	0.01254	0.007652	0.01289	0.009913	0.01752	0.0117
+CYP2D6	[*1,*3]	[*1,*3]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.009503	0.007059	0.000627	0.006428	0	0.01094	0.001592	0.004636
+CYP2D6	[*35,*41]	[*35,*41]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.009224	0.005584	0	0.002755	0	0.0108	0.003185	0.004425
+CYP2D6	[*41,*41]	[*41,*41]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.008677	0.007691	0	0.001224	0.001546	0.009806	0.02548	0.005268
+CYP2D6	[*4,*41,*68]	[*4,*41,*68]	[0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	0.008495	0.005795	0.000627	0.001837	0	0.009852	0.004777	0.004741
+CYP2D6	[*4,*5]	[*4,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.007583	0.007059	0.00627	0.003673	0	0.008521	0.006369	0.00432
+CYP2D6	[*2,*9]	[*2,*9]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.007389	0.006743	0.000627	0.004897	0	0.008322	0.001592	0.004847
+CYP2D6	[*1,*6]	[*1,*6]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.006793	0.006638	0.000627	0.00704	0	0.007588	0	0.004109
+CYP2D6	[*1,*33]	[*1,*33]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.006757	0.00432	0.000627	0.00153	0.0005155	0.007879	0.003185	0.003372
+CYP2D6	[*4,*9]	[*4,*9]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.006489	0.003688	0	0.002449	0	0.007634	0	0.002845
+CYP2D6	[*1,*2,*2]	[*1,*2x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.005979	0.01696	0.01066	0.015	0.0005155	0.005064	0.006369	0.009483
+CYP2D6	[*5,*41]	[*5,*41]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.005517	0.007902	0.001881	0.002755	0.004124	0.005798	0.009554	0.005163
+CYP2D6	[*1,*17]	[*1,*17]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.00542	0.03856	0.09655	0.007346	0	0.001224	0	0.01981
+CYP2D6	[*1,*10,*36]	[*1,*10,*36]	[1.0,0.25,0.0]	NM	Normal/Routine/Low Risk	0.005396	0.04615	0.001254	0.0009183	0.1598	9.179e-05	0.003185	0.01275
+CYP2D6	[*2,*10]	[*2,*10]	[1.0,0.25]	NM	Normal/Routine/Low Risk	0.005311	0.01886	0.01003	0.002449	0.03763	0.003947	0.0207	0.00727
+CYP2D6	[*4,*35,*68]	[*4,*35,*68]	[0.0,1.0,0.0]	IM	Abnormal/Priority/High Risk	0.005286	0.002318	0	0.0009183	0	0.006318	0	0.002002
+CYP2D6	[*1,*1,*1]	[*1,*1x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.005031	0.007481	0.005643	0.003367	0.001031	0.005247	0.001592	0.005057
+CYP2D6	[*9,*41]	[*9,*41]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.004423	0.002423	0	0.001224	0	0.005217	0	0.002002
+CYP2D6	[*2,*3]	[*2,*3]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.004095	0.00295	0.000627	0.001837	0	0.004727	0.003185	0.002002
+CYP2D6	[*4,*10]	[*4,*10]	[0.0,0.25]	IM	Abnormal/Priority/High Risk	0.003561	0.00727	0.001254	0.002143	0.0005155	0.003427	0.009554	0.005584
+CYP2D6	[*3,*4]	[*3,*4]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.003524	0.0009483	0	0	0	0.004299	0	0.0009483
+CYP2D6	[*10,*41]	[*10,*41]	[0.25,0.5]	IM	Abnormal/Priority/High Risk	0.003318	0.00727	0.002508	0.0006122	0.01031	0.003121	0.009554	0.003898
+CYP2D6	[*2,*2,*2]	[*2,*2x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.003111	0.008745	0.003135	0.007346	0	0.002647	0.004777	0.005374
+CYP2D6	[*1,*4,*4N]	[*1,*4,*4N]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.003087	0.002423	0.001881	0.001224	0	0.003534	0	0.001686
+CYP2D6	[*2,*33]	[*2,*33]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.003062	0.00295	0	0.0006122	0	0.003427	0.001592	0.002634
+CYP2D6	[*5,*35]	[*5,*35]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.003026	0.002739	0.000627	0.0006122	0.001031	0.003412	0	0.002213
+CYP2D6	[*4,*68]	[*4,*68,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.003002	0.002002	0.001254	0.0006122	0	0.003488	0.001592	0.001475
+CYP2D6	[*2,*6]	[*2,*6]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.002941	0.002845	0	0.0009183	0	0.003289	0.001592	0.002423
+CYP2D6	[*4,*4,*68,*68]	[*4,*4,*68,*68]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0.002856	0.00137	0	0.0006122	0	0.003396	0.001592	0.001054
+CYP2D6	[*1,*29]	[*1,*29]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.002771	0.02181	0.05643	0.003979	0	0.0003213	0	0.01096
+CYP2D6	[*4,*6]	[*4,*6]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.002637	0.001897	0.000627	0.0009183	0	0.003044	0	0.001475
+CYP2D6	[*3,*41]	[*3,*41]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.002564	0.00158	0	0.001224	0	0.002998	0.003185	0.0009483
+CYP2D6	[*4,*33]	[*4,*33]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.002564	0.001475	0	0	0	0.003014	0	0.001475
+CYP2D6	[*35,*35]	[*35,*35]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.002528	0.001264	0	0.0006122	0	0.002998	0	0.001054
+CYP2D6	[*1,*59]	[*1,*59]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.002491	0.001686	0	0.0006122	0	0.002891	0	0.001475
+CYP2D6	[*2,*17]	[*2,*17]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.002406	0.01717	0.04702	0.002449	0	0.0005354	0	0.008429
+CYP2D6	[*9,*35]	[*9,*35]	[0.5,1.0]	NM	Normal/Routine/Low Risk	0.002394	0.0009483	0	0.0006122	0	0.002876	0	0.0007375
+CYP2D6	[*1,*1,*2]	[*1x2,*2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.002224	0.004109	0.003135	0.003061	0	0.002203	0.004777	0.002213
+CYP2D6	[*1,*28]	[*1,*28]	[1.0,null]	Unknown	Unknown	0.002187	0.004004	0	0.004897	0	0.002172	0	0.002318
+CYP2D6	[*10,*10,*36]	[*10,*10,*36]	[0.25,0.25,0.0]	IM	Abnormal/Priority/High Risk	0.002102	0.01823	0.000627	0	0.08093	0	0	0.00158
+CYP2D6	[*2,*10,*36]	[*2,*10,*36]	[1.0,0.25,0.0]	NM	Normal/Routine/Low Risk	0.002042	0.01738	0.001254	0	0.05361	4.589e-05	0	0.006216
+CYP2D6	[*1,*4,*4]	[*1,*4x2]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.001993	0.009061	0.01818	0.003367	0	0.001193	0	0.004847
+CYP2D6	[*4,*9,*68]	[*4,*9,*68]	[0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	0.001932	0.001054	0	0.0009183	0	0.002279	0	0.0007375
+CYP2D6	[*2,*2,*4]	[*2x2,*4]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	0.001908	0.003898	0	0.003367	0	0.001836	0.003185	0.002529
+CYP2D6	[*2,*2,*41]	[*2x2,*41]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	0.001871	0.003161	0	0.001837	0	0.001897	0.001592	0.002423
+CYP2D6	[*1,*1,*4]	[*1x2,*4]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	0.001823	0.002529	0.000627	0.0006122	0	0.001928	0.003185	0.002002
+CYP2D6	[*6,*41]	[*6,*41]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.001713	0.0009483	0	0	0	0.002019	0	0.0009483
+CYP2D6	[*5,*9]	[*5,*9]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.001556	0.001897	0	0.0003061	0	0.001683	0	0.001791
+CYP2D6	[*1,*22]	[*1,*22]	[1.0,null]	Unknown	Unknown	0.001543	0.001686	0.000627	0.0003061	0	0.001698	0	0.001475
+CYP2D6	[*3,*35]	[*3,*35]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.001519	0.0003161	0	0.0003061	0	0.001866	0	0.0002107
+CYP2D6	[*33,*41]	[*33,*41]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.001495	0.001054	0	0	0	0.001729	0.003185	0.0008429
+CYP2D6	[*3,*4,*68]	[*3,*4,*68]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0.001483	0.0002107	0	0	0	0.001836	0	0.0002107
+CYP2D6	[*10,*35]	[*10,*35]	[0.25,1.0]	NM	Normal/Routine/Low Risk	0.001434	0.002002	0.000627	0.00153	0.0005155	0.001515	0	0.001264
+CYP2D6	[*2,*4,*4N]	[*2,*4,*4N]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.001325	0.001897	0.001881	0.0003061	0	0.001392	0.003185	0.001264
+CYP2D6	[*2,*59]	[*2,*59]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.001312	0.0004215	0	0	0	0.001591	0	0.0004215
+CYP2D6	[*4,*10,*68]	[*4,*10,*68]	[0.0,0.25,0.0]	IM	Abnormal/Priority/High Risk	0.0013	0.001791	0	0.0006122	0	0.001377	0.003185	0.00137
+CYP2D6	[*5,*10]	[*5,*10]	[0.0,0.25]	IM	Abnormal/Priority/High Risk	0.001264	0.005057	0.003762	0	0.01237	0.0008567	0	0.001897
+CYP2D6	[*1,*1,Incomplete Match]	[*1x2,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	0.001252	0.00727	0	0.01194	0.001031	0.0005201	0.004777	0.002634
+CYP2D6	[*10,*10,*36,*36]	[*10,*10,*36,*36]	[0.25,0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.00124	0.01075	0	0	0.05258	0	0	0
+CYP2D6	[*4,*17]	[*4,*17]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.001215	0.006849	0.006897	0.002143	0	0.0005354	0	0.004952
+CYP2D6	[*1,*1,*41]	[*1x2,*41]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	0.001191	0.0008429	0	0.0003061	0.0005155	0.001377	0.001592	0.0005268
+CYP2D6	[*4,*33,*68]	[*4,*33,*68]	[0.0,1.0,0.0]	IM	Abnormal/Priority/High Risk	0.001191	0.0006322	0	0	0	0.001407	0	0.0006322
+CYP2D6	[*10,*10]	[*10,*10]	[0.25,0.25]	IM	Abnormal/Priority/High Risk	0.001167	0.008218	0.000627	0	0.03196	0.0002754	0.006369	0.001159
+CYP2D6	[*33,*35]	[*33,*35]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.001167	0.0005268	0	0	0	0.001392	0	0.0005268
+CYP2D6	[*6,*35]	[*6,*35]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.001154	0.001054	0	0	0	0.0013	0	0.001054
+CYP2D6	[*13,*39]	[*13,*39,*5]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.001142	0.001159	0.000627	0.0003061	0.0005155	0.00127	0	0.0008429
+CYP2D6	[*2,*2,*13]	[*2,*2,*13]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	0.001142	0.001159	0	0.001837	0	0.00127	0	0.0005268
+CYP2D6	[*17,*41]	[*17,*41]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.001082	0.005795	0.007524	0.0006122	0	0.0005201	0	0.00432
+CYP2D6	[*2,*29]	[*2,*29]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.001057	0.008745	0.01944	0.003367	0	6.119e-05	0	0.00432
+CYP2D6	[*1,*4,*68,*68]	[*1,*4,*68,*68]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.001045	0.001264	0.000627	0.0009183	0.0005155	0.001132	0.001592	0.0006322
+CYP2D6	[*1,*45]	[*1,*45]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.0009843	0.008008	0.01317	0.003367	0	7.649e-05	0	0.004636
+CYP2D6	[*2,*28]	[*2,*28]	[1.0,null]	Unknown	Unknown	0.0009843	0.001686	0	0.001837	0	0.0009944	0	0.001054
+CYP2D6	[*2,*22]	[*2,*22]	[1.0,null]	Unknown	Unknown	0.0009722	0.00158	0.001254	0.0006122	0	0.0009944	0.001592	0.001054
+CYP2D6	[*10,*36,*41]	[*10,*36,*41]	[0.25,0.0,0.5]	IM	Abnormal/Priority/High Risk	0.00096	0.007902	0	0	0.02577	6.119e-05	0	0.002634
+CYP2D6	[*5,*5]	[*5,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0009479	0.00295	0.00627	0.0006122	0.002577	0.0007649	0	0.001159
+CYP2D6	[*10,*10,*10,*36]	[*10,*10x2,*36]	[0.25,0.25,0.25,0.0]	IM	Abnormal/Priority/High Risk	0.0008993	0.007797	0	0	0.03454	0	0	0.0007375
+CYP2D6	[*3,*5]	[*3,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0008993	0.0005268	0	0	0	0.001056	0	0.0005268
+CYP2D6	[*17,*17]	[*17,*17]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.0008871	0.007586	0.03072	0	0	1.53e-05	0	0.002423
+CYP2D6	[*9,*10]	[*9,*10]	[0.5,0.25]	IM	Abnormal/Priority/High Risk	0.0008507	0.001686	0.001254	0	0.001031	0.0008261	0	0.001264
+CYP2D6	[*1,*2,Incomplete Match]	[*1,*2,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	0.0008021	0.003688	0	0.003673	0	0.0004742	0.004777	0.002107
+CYP2D6	[*4,*6,*68]	[*4,*6,*68]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0007899	0.0006322	0	0.0006122	0	0.0009026	0	0.0004215
+CYP2D6	[*3,*9]	[*3,*9]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.0007778	0.0005268	0	0	0	0.0009026	0	0.0005268
+CYP2D6	[*2,*2,*35]	[*2x2,*35]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.0007413	0.00158	0	0.0003061	0	0.0007037	0	0.001475
+CYP2D6	[*5,*17]	[*5,*17]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.0007413	0.005268	0.01818	0.0006122	0	0.0001683	0	0.002002
+CYP2D6	[*1,*1,*4,*68]	[*1x2,*4,*68]	[1.0,1.0,0.0,0.0]	NM	Normal/Routine/Low Risk	0.0007048	0.0007375	0	0.0003061	0	0.0007802	0	0.0006322
+CYP2D6	[*17,*29]	[*17,*29]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.0007048	0.0059	0.02445	0.0003061	0	3.06e-05	0	0.001686
+CYP2D6	[*2,*2,*4,*68]	[*2x2,*4,*68]	[1.0,1.0,0.0,0.0]	NM	Normal/Routine/Low Risk	0.0007048	0.001054	0	0	0	0.0007343	0.001592	0.0009483
+CYP2D6	[*4,*4N,*41]	[*4,*4N,*41]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	0.0006927	0.0002107	0	0	0	0.0008414	0	0.0002107
+CYP2D6	[*41,*59]	[*41,*59]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.0006927	0.0001054	0	0	0	0.0008567	0	0.0001054
+CYP2D6	[*1,*1,*35]	[*1x2,*35]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.0006562	0.0002107	0	0	0	0.0007955	0	0.0002107
+CYP2D6	[*4,*28]	[*4,*28]	[0.0,null]	Unknown	Unknown	0.0006562	0.0009483	0	0.0006122	0	0.0006884	0	0.0007375
+CYP2D6	[*1,*108]	[*1,*108]	[1.0,null]	Unknown	Unknown	0.0006441	0.0004215	0	0.0003061	0	0.0007496	0	0.0003161
+CYP2D6	[*28,*41]	[*28,*41]	[null,0.5]	Unknown	Unknown	0.0006441	0.001159	0	0.0006122	0	0.0006425	0	0.0009483
+CYP2D6	[*2,*4,*4]	[*2,*4x2]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.0006319	0.003582	0.009404	0.00153	0	0.0002754	0	0.001475
+CYP2D6	[*4,*22]	[*4,*22]	[0.0,null]	Unknown	Unknown	0.0006198	0.0002107	0	0.0006122	0	0.0007496	0	0
+CYP2D6	[*4,*59]	[*4,*59]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.0006076	0.0004215	0	0	0	0.0007037	0	0.0004215
+CYP2D6	[*5,*33]	[*5,*33]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.0006076	0.0004215	0	0	0	0.0007037	0	0.0004215
+CYP2D6	[*1,*4,Incomplete Match]	[*1,*4,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	0.0005955	0.00137	0	0.00153	0	0.0005507	0.004777	0.0005268
+CYP2D6	[*10,*36]	[*10,*36,*5]	[0.25,0.0]	IM	Abnormal/Priority/High Risk	0.0005955	0.005163	0	0	0.02062	0	0	0.0009483
+CYP2D6	[*4,*29]	[*4,*29]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.0005833	0.00432	0.005643	0.00153	0	0.0001071	0	0.002845
+CYP2D6	[*5,*6]	[*5,*6]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0005833	0.0007375	0.000627	0.0003061	0	0.0006272	0	0.0005268
+CYP2D6	[*1,*41,Incomplete Match]	[*1,*41,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	0.0005712	0.001054	0	0.0009183	0	0.000566	0.003185	0.0005268
+CYP2D6	[*4,*4,*4]	[*4,*4x2]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0.000559	0.0009483	0	0	0	0.000566	0	0.0009483
+CYP2D6	[*4,*4,*4N]	[*4,*4,*4N]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0.000559	0.0003161	0	0.0003061	0	0.0006578	0	0.0002107
+CYP2D6	[*6,*9]	[*6,*9]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.0005226	0.0003161	0	0.0003061	0	0.0006119	0	0.0002107
+CYP2D6	[*1,*7]	[*1,*7]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0004983	0.001159	0	0.0006122	0	0.0004589	0.004777	0.0006322
+CYP2D6	[*2,*4,*68,*68]	[*2,*4,*68,*68]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.0004983	0.0002107	0	0	0	0.0005966	0	0.0002107
+CYP2D6	[*4,*17,*68]	[*4,*17,*68]	[0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	0.0004861	0.002739	0.004389	0.0003061	0	0.0002142	0	0.001897
+CYP2D6	[*9,*33]	[*9,*33]	[0.5,1.0]	NM	Normal/Routine/Low Risk	0.0004739	0.0003161	0	0	0	0.0005507	0	0.0003161
+CYP2D6	[*9,*9]	[*9,*9]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.0004739	0.0003161	0	0.0003061	0	0.0005507	0	0.0002107
+CYP2D6	[*2,*64]	[*2,*64]	[1.0,null]	Unknown	Unknown	0.0004618	0.003582	0.01003	0	0	6.119e-05	0	0.001897
+CYP2D6	[*1,*39]	[*1,*39]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.0004496	0.00158	0.001254	0	0.001546	0.0003366	0.001592	0.0009483
+CYP2D6	[*2,*2,*9]	[*2x2,*9]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	0.0004253	0.0005268	0.000627	0.0003061	0	0.0004589	0	0.0003161
+CYP2D6	[*4,*4N,*35]	[*4,*4N,*35]	[0.0,0.0,1.0]	IM	Abnormal/Priority/High Risk	0.0004132	0.0001054	0	0	0	0.0005048	0	0.0001054
+CYP2D6	[*17,*35]	[*17,*35]	[0.5,1.0]	NM	Normal/Routine/Low Risk	0.000401	0.002002	0.003135	0.0009183	0	0.0002142	0	0.001159
+CYP2D6	[*3,*10]	[*3,*10]	[0.0,0.25]	IM	Abnormal/Priority/High Risk	0.000401	0.0009483	0.000627	0	0	0.0003672	0	0.0008429
+CYP2D6	[*4,*4,*41]	[*4x2,*41]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	0.000401	0.0009483	0.001881	0.0003061	0	0.0003672	0	0.0005268
+CYP2D6	[*22,*41]	[*22,*41]	[null,0.5]	Unknown	Unknown	0.0003889	0.0001054	0	0	0	0.0004742	0	0.0001054
+CYP2D6	[*29,*41]	[*29,*41]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.0003889	0.002634	0.001881	0.0009183	0	0.0001071	0	0.002002
+CYP2D6	[*1,*2,*2,*2]	[*1,*2x3]	[1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.0003767	0.0006322	0.000627	0	0	0.0003825	0	0.0005268
+CYP2D6	[*10,*33]	[*10,*33]	[0.25,1.0]	NM	Normal/Routine/Low Risk	0.0003767	0.0004215	0	0	0	0.0004131	0	0.0004215
+CYP2D6	[*28,*35]	[*28,*35]	[null,1.0]	Unknown	Unknown	0.0003767	0.0008429	0	0.0006122	0	0.0003519	0	0.0006322
+CYP2D6	[*4,*28,*68]	[*4,*28,*68]	[0.0,null,0.0]	Unknown	Unknown	0.0003767	0.0004215	0	0.0003061	0	0.0004131	0	0.0003161
+CYP2D6	[*4,*41,*68,*68]	[*4,*41,*68,*68]	[0.0,0.5,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.0003767	0.0001054	0	0	0	0.0004589	0	0.0001054
+CYP2D6	[*4,*5,Incomplete Match]	[*4,*5,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	0.0003767	0.0001054	0	0	0	0.0004589	0	0.0001054
+CYP2D6	[*6,*10]	[*6,*10]	[0.0,0.25]	IM	Abnormal/Priority/High Risk	0.0003767	0.0005268	0	0.0003061	0.0005155	0.0003978	0	0.0003161
+CYP2D6	[*2,*43]	[*2,*43]	[1.0,null]	Unknown	Unknown	0.0003646	0.002318	0.002508	0.00153	0	0.0001224	0.001592	0.001264
+CYP2D6	[*2,*45]	[*2,*45]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.0003646	0.00295	0.005643	0.0009183	0	3.06e-05	0	0.001686
+CYP2D6	[*4,*4,*4,*68]	[*4,*4x2,*68]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0003646	0.0008429	0.000627	0	0	0.0003366	0	0.0007375
+CYP2D6	[*1,*14]	[*1,*14]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.0003524	0.00295	0	0	0.01237	1.53e-05	0	0.0004215
+CYP2D6	[*1,*35,Incomplete Match]	[*1,*35,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	0.0003403	0.0007375	0	0.0003061	0.0005155	0.0003213	0	0.0005268
+CYP2D6	[*1,*43]	[*1,*43]	[1.0,null]	Unknown	Unknown	0.0003403	0.002107	0.004389	0.0006122	0	0.0001224	0.004777	0.0008429
+CYP2D6	[*2,*2,*17]	[*2x2,*17]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	0.0003403	0.002213	0.009404	0.0003061	0	0.0001071	0	0.0005268
+CYP2D6	[*4,*59,*68]	[*4,*59,*68]	[0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	0.0003403	0.0001054	0	0	0	0.0004131	0	0.0001054
+CYP2D6	[*1,*1,*9]	[*1x2,*9]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	0.0003281	0.0003161	0	0	0	0.0003672	0	0.0003161
+CYP2D6	[*1,*106]	[*1,*106]	[1.0,null]	Unknown	Unknown	0.0003281	0.002845	0.007524	0.00153	0	0	0	0.001054
+CYP2D6	[*2,*2,*10]	[*2x2,*10]	[1.0,1.0,0.25]	NM	Normal/Routine/Low Risk	0.0003281	0.001264	0.001254	0.0003061	0.001546	0.0002295	0	0.0006322
+CYP2D6	[*2,*2,*2,*2]	[*2,*2x3]	[1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.0003281	0.001159	0.000627	0	0	0.0002448	0.004777	0.0007375
+CYP2D6	[*1,*71]	[*1,*71]	[1.0,null]	Unknown	Unknown	0.000316	0.002423	0	0	0.005155	4.589e-05	0	0.00137
+CYP2D6	[*17,*45]	[*17,*45]	[0.5,1.0]	NM	Normal/Routine/Low Risk	0.000316	0.002739	0.01254	0	0	0	0	0.0006322
+CYP2D6	[*35,*59]	[*35,*59]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.000316	0.0001054	0	0	0	0.0003825	0	0.0001054
+CYP2D6	[*4,*4,*17]	[*4x2,*17]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	0.000316	0.002634	0.01129	0	0	1.53e-05	0	0.0007375
+CYP2D6	[*4,*4N]	[*4,*4N,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.000316	0.0002107	0.000627	0	0	0.0003672	0	0.0001054
+CYP2D6	[*10,*29]	[*10,*29]	[0.25,0.5]	IM	Abnormal/Priority/High Risk	0.0002917	0.002529	0.01003	0	0	0	0	0.0008429
+CYP2D6	[*2,*13]	[*2,*13,*5]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0002917	0.0004215	0	0.0003061	0	0.000306	0	0.0003161
+CYP2D6	[*4,*4,Incomplete Match]	[*4x2,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	0.0002917	0.0006322	0	0.0006122	0	0.0002754	0	0.0004215
+CYP2D6	[*1,*35,*35]	[*1,*35x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.0002795	0.0005268	0	0.0003061	0	0.0002754	0	0.0004215
+CYP2D6	[*3,*6]	[*3,*6]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0002795	0.0003161	0	0	0	0.000306	0	0.0003161
+CYP2D6	[*1,*1,*1,*1]	[*1,*1x3]	[1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.0002674	0.0003161	0	0.0003061	0.0005155	0.0002907	0.001592	0
+CYP2D6	[*1,*15]	[*1,*15]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0002674	0.0003161	0	0	0.0005155	0.0002907	0	0.0002107
+CYP2D6	[*1,*53]	[*1,*53]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.0002674	0.002107	0	0.003979	0.0005155	3.06e-05	0	0.0006322
+CYP2D6	[*10,*10,*10]	[*10,*10x2]	[0.25,0.25,0.25]	IM	Abnormal/Priority/High Risk	0.0002552	0.002213	0	0	0.01082	0	0	0
+CYP2D6	[*2,*2,Incomplete Match]	[*2x2,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	0.0002552	0.0007375	0	0.0006122	0	0.0002142	0	0.0005268
+CYP2D6	[*4,*4N,*9]	[*4,*4N,*9]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	0.0002552	0	0	0	0	0.0003213	0	0
+CYP2D6	[*2,*4,Incomplete Match]	[*2,*4,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	0.000243	0.0003161	0	0.0003061	0	0.0002601	0	0.0002107
+CYP2D6	[*4,*41,Incomplete Match]	[*4,*41,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	0.000243	0.0002107	0	0	0	0.0002754	0	0.0002107
+CYP2D6	[*5,*28]	[*5,*28]	[0.0,null]	Unknown	Unknown	0.000243	0.0003161	0	0	0	0.0002601	0	0.0003161
+CYP2D6	[*1,*39,Incomplete Match]	[*1,*39,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	0.0002309	0.001475	0	0.001224	0	7.649e-05	0	0.001054
+CYP2D6	[*1,*5,Incomplete Match]	[*1,*5,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	0.0002309	0.0008429	0.000627	0.00153	0.0005155	0.0001683	0	0.0001054
+CYP2D6	[*10,*74,Incomplete Match]	[*10,*74,Incomplete Match]	[0.25,null,null]	Unknown	Unknown	0.0002309	0.001054	0	0.002143	0	0.0001377	0	0.0003161
+CYP2D6	[*3,*3]	[*3,*3]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0002309	0.0002107	0	0.0003061	0	0.0002601	0	0.0001054
+CYP2D6	[*3,*33]	[*3,*33]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.0002309	0	0	0	0	0.0002907	0	0
+CYP2D6	[*4,*22,*68]	[*4,*22,*68]	[0.0,null,0.0]	Unknown	Unknown	0.0002309	0	0	0	0	0.0002907	0	0
+CYP2D6	[*5,*5,Incomplete Match]	[*5x2,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	0.0002309	0.0003161	0	0.0003061	0	0.0002448	0	0.0002107
+CYP2D6	[*5,*59]	[*5,*59]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.0002309	0.0002107	0	0.0003061	0	0.0002601	0	0.0001054
+CYP2D6	[*1,*36]	[*1,*36,*5]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0002187	0.001791	0.001881	0.0003061	0.001546	1.53e-05	0	0.001054
+CYP2D6	[*10,*10,*10,*36,*36]	[*10,*10x2,*36,*36]	[0.25,0.25,0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.0002187	0.001897	0	0	0.008763	0	0	0.0001054
+CYP2D6	[*2,*7]	[*2,*7]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0002187	0.0004215	0	0	0	0.0002142	0	0.0004215
+CYP2D6	[*4,*108]	[*4,*108]	[0.0,null]	Unknown	Unknown	0.0002187	0	0	0	0	0.0002754	0	0
+CYP2D6	[*10,*35,*36]	[*10,*35,*36]	[0.25,1.0,0.0]	NM	Normal/Routine/Low Risk	0.0002066	0.001686	0	0	0.001031	1.53e-05	0.001592	0.00137
+CYP2D6	[*2,*4,*68,Incomplete Match]	[*2,*4,*68,Incomplete Match]	[1.0,0.0,0.0,null]	Unknown	Unknown	0.0002066	0.0003161	0	0.0003061	0	0.0002142	0	0.0002107
+CYP2D6	[*2,*74,Incomplete Match]	[*2,*74,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	0.0002066	0.001686	0.000627	0.002755	0	1.53e-05	0	0.0006322
+CYP2D6	[*22,*35]	[*22,*35]	[null,1.0]	Unknown	Unknown	0.0002066	0.0001054	0	0	0	0.0002448	0	0.0001054
+CYP2D6	[*35,*35,*41]	[*35x2,*41]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	0.0002066	0.0001054	0	0.0003061	0	0.0002448	0	0
+CYP2D6	[*4,*35,*35]	[*4,*35x2]	[0.0,1.0,1.0]	NM	Normal/Routine/Low Risk	0.0002066	0.0004215	0	0.0003061	0	0.0001989	0	0.0003161
+CYP2D6	[*4N,*10,*10]	[*4N,*10,*10]	[0.0,0.25,0.25]	IM	Abnormal/Priority/High Risk	0.0002066	0.00158	0	0	0.001031	3.06e-05	0	0.00137
+CYP2D6	[*1,*1,*10]	[*1x2,*10]	[1.0,1.0,0.25]	NM	Normal/Routine/Low Risk	0.0001944	0.0007375	0.000627	0.0003061	0.001546	0.0001377	0	0.0002107
+CYP2D6	[*1,*9,*9]	[*1,*9x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	0.0001944	0.0008429	0.000627	0.001224	0	0.0001224	0	0.0003161
+CYP2D6	[*2,*108]	[*2,*108]	[1.0,null]	Unknown	Unknown	0.0001944	0.0001054	0	0.0003061	0	0.0002295	0	0
+CYP2D6	[*3,*4,*4N]	[*3,*4,*4N]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0001944	0.0001054	0	0	0	0.0002295	0	0.0001054
+CYP2D6	[*1,*1,*3]	[*1x2,*3]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	0.0001823	0.0001054	0	0	0	0.0002142	0	0.0001054
+CYP2D6	[*1,*31]	[*1,*31]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0001823	0.0007375	0	0.0003061	0	0.0001224	0	0.0006322
+CYP2D6	[*1,*40]	[*1,*40]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0001823	0.00158	0.003762	0	0	0	0	0.0009483
+CYP2D6	[*27,*41]	[*27,*41]	[1.0,0.5]	NM	Normal/Routine/Low Risk	0.0001823	0.0001054	0	0	0	0.0002142	0	0.0001054
+CYP2D6	[*5,*22]	[*5,*22]	[0.0,null]	Unknown	Unknown	0.0001823	0.0002107	0	0	0	0.0001989	0	0.0002107
+CYP2D6	[*5,*45]	[*5,*45]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.0001823	0.00158	0.005643	0	0	0	0	0.0006322
+CYP2D6	[*1,*10,*36,*36]	[*1,*10,*36,*36]	[1.0,0.25,0.0,0.0]	NM	Normal/Routine/Low Risk	0.0001701	0.001475	0	0	0.004639	0	0	0.0005268
+CYP2D6	[*1,*46]	[*1,*46]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.0001701	0.001159	0.003135	0	0	4.589e-05	0	0.0006322
+CYP2D6	[*1,*74,Incomplete Match]	[*1,*74,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	0.0001701	0.00137	0	0.002449	0	1.53e-05	0	0.0005268
+CYP2D6	[*10,*14,*36]	[*10,*14,*36]	[0.25,0.5,0.0]	IM	Abnormal/Priority/High Risk	0.0001701	0.001475	0	0	0.006701	0	0	0.0001054
+CYP2D6	[*2,*15]	[*2,*15]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0001701	0.0003161	0.001254	0	0	0.0001683	0	0.0001054
+CYP2D6	[*4,*29,*68]	[*4,*29,*68]	[0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	0.0001701	0.001264	0.000627	0.0003061	0	3.06e-05	0	0.001054
+CYP2D6	[*4,*4N,*6]	[*4,*4N,*6]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0001701	0.0001054	0	0	0	0.0001989	0	0.0001054
+CYP2D6	[*5,*29,Incomplete Match]	[*5,*29,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	0.0001701	0.00137	0.002508	0.0003061	0	1.53e-05	0	0.0008429
+CYP2D6	[*9,*59]	[*9,*59]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.0001701	0.0001054	0	0.0003061	0	0.0001989	0	0
+CYP2D6	[*1,*108,Incomplete Match]	[*1,*108,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	0.000158	0.0001054	0.000627	0	0	0.0001836	0	0
+CYP2D6	[*10,*14]	[*10,*14]	[0.25,0.5]	IM	Abnormal/Priority/High Risk	0.000158	0.00137	0	0	0.006701	0	0	0
+CYP2D6	[*2,*2,*2,*4]	[*2x3,*4]	[1.0,1.0,1.0,0.0]	UM	Abnormal/Priority/High Risk	0.000158	0.0002107	0	0.0003061	0	0.0001683	0	0.0001054
+CYP2D6	[*29,*45]	[*29,*45]	[0.5,1.0]	NM	Normal/Routine/Low Risk	0.000158	0.00137	0.005016	0	0	0	0	0.0005268
+CYP2D6	[*3,*59]	[*3,*59]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.000158	0	0	0	0	0.0001989	0	0
+CYP2D6	[*4,*35,*68,*68]	[*4,*35,*68,*68]	[0.0,1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0.000158	0.0002107	0	0	0	0.0001683	0	0.0002107
+CYP2D6	[*4,*4,*35]	[*4x2,*35]	[0.0,0.0,1.0]	IM	Abnormal/Priority/High Risk	0.000158	0.0006322	0.001254	0	0	0.0001071	0	0.0004215
+CYP2D6	[*4,*45]	[*4,*45]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.000158	0.001054	0.001254	0.0009183	0	4.589e-05	0	0.0005268
+CYP2D6	[*4,*68,*68]	[*4,*68,*68,*5]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0.000158	0.0001054	0.000627	0	0	0.0001836	0	0
+CYP2D6	[*5,*41,Incomplete Match]	[*5,*41,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	0.000158	0	0	0	0	0.0001989	0	0
+CYP2D6	[*1,*1,*33]	[*1x2,*33]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.0001458	0.0001054	0	0	0	0.0001683	0	0.0001054
+CYP2D6	[*1,*3,Incomplete Match]	[*1,*3,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	0.0001458	0.0005268	0	0.001224	0	0.0001071	0	0.0001054
+CYP2D6	[*2,*2,*29]	[*2x2,*29]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	0.0001458	0.001264	0.003762	0.0009183	0	0	0	0.0003161
+CYP2D6	[*2,*2,*3]	[*2x2,*3]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	0.0001458	0.0002107	0	0	0	0.000153	0	0.0002107
+CYP2D6	[*2,*2,*33]	[*2x2,*33]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.0001458	0.0002107	0	0	0	0.000153	0	0.0002107
+CYP2D6	[*2,*29,Incomplete Match]	[*2,*29,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	0.0001458	0.001159	0.003135	0.0003061	0	1.53e-05	0	0.0005268
+CYP2D6	[*2,*35,Incomplete Match]	[*2,*35,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	0.0001458	0.0001054	0	0	0	0.0001683	0	0.0001054
+CYP2D6	[*2,*39]	[*2,*39]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.0001458	0.0005268	0	0	0.0005155	0.0001071	0	0.0004215
+CYP2D6	[*2,*40]	[*2,*40]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0001458	0.001264	0.004389	0.0003061	0	0	0	0.0004215
+CYP2D6	[*4,*108,Incomplete Match]	[*4,*108,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	0.0001458	0	0	0	0	0.0001836	0	0
+CYP2D6	[*4,*35,*68,Incomplete Match]	[*4,*35,*68,Incomplete Match]	[0.0,1.0,0.0,null]	Unknown	Unknown	0.0001458	0	0	0	0	0.0001836	0	0
+CYP2D6	[*41,*108]	[*41,*108]	[0.5,null]	Unknown	Unknown	0.0001458	0.0001054	0	0	0	0.0001683	0	0.0001054
+CYP2D6	[*41,*45]	[*41,*45]	[0.5,1.0]	NM	Normal/Routine/Low Risk	0.0001458	0.001054	0.001881	0.0003061	0	3.06e-05	0	0.0006322
+CYP2D6	[*9,*17]	[*9,*17]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.0001458	0.001054	0.001254	0.0003061	0	3.06e-05	0	0.0007375
+CYP2D6	[*9,*28]	[*9,*28]	[0.5,null]	Unknown	Unknown	0.0001458	0.0002107	0	0	0	0.000153	0	0.0002107
+CYP2D6	[*1,*1,*2,*2]	[*1x2,*2x2]	[1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.0001337	0.0005268	0.000627	0.0009183	0	9.179e-05	0	0.0001054
+CYP2D6	[*1,*10,*10]	[*1,*10x2]	[1.0,0.25,0.25]	NM	Normal/Routine/Low Risk	0.0001337	0.0008429	0.000627	0	0.0005155	4.589e-05	0	0.0006322
+CYP2D6	[*1,*4,*68,Incomplete Match]	[*1,*4,*68,Incomplete Match]	[1.0,0.0,0.0,null]	Unknown	Unknown	0.0001337	0.0002107	0	0.0006122	0	0.0001377	0	0
+CYP2D6	[*2,*41,Incomplete Match]	[*2,*41,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	0.0001337	0.0004215	0	0.0003061	0	0.0001071	0	0.0003161
+CYP2D6	[*2,*5,Incomplete Match]	[*2,*5,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	0.0001337	0.0002107	0	0	0.0005155	0.0001377	0	0.0001054
+CYP2D6	[*29,*29,Incomplete Match]	[*29x2,Incomplete Match]	[0.5,0.5,null]	Unknown	Unknown	0.0001337	0.001159	0.005016	0	0	0	0	0.0003161
+CYP2D6	[*41,*43]	[*41,*43]	[0.5,null]	Unknown	Unknown	0.0001337	0.0004215	0	0	0	0.0001071	0.004777	0.0001054
+CYP2D6	[*9,*29]	[*9,*29]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	0.0001337	0.0006322	0.000627	0	0	7.649e-05	0	0.0005268
+CYP2D6	[*1,*1,*6]	[*1x2,*6]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	0.0001215	0	0	0	0	0.000153	0	0
+CYP2D6	[*17,*33]	[*17,*33]	[0.5,1.0]	NM	Normal/Routine/Low Risk	0.0001215	0.0003161	0	0	0	0.0001071	0	0.0003161
+CYP2D6	[*2,*2,*6]	[*2x2,*6]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	0.0001215	0.0001054	0	0	0	0.0001377	0	0.0001054
+CYP2D6	[*2,*53]	[*2,*53]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.0001215	0.0007375	0	0.00153	0	4.589e-05	0	0.0002107
+CYP2D6	[*33,*33]	[*33,*33]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0.0001215	0.0001054	0	0	0	0.0001377	0	0.0001054
+CYP2D6	[*35,*41,Incomplete Match]	[*35,*41,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	0.0001215	0	0	0	0	0.000153	0	0
+CYP2D6	[*4,*106]	[*4,*106]	[0.0,null]	Unknown	Unknown	0.0001215	0.0009483	0.001881	0.0006122	0	1.53e-05	0	0.0004215
+CYP2D6	[*4,*39]	[*4,*39]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.0001215	0.0004215	0	0.0006122	0	9.179e-05	0	0.0002107
+CYP2D6	[*4,*4,*10]	[*4x2,*10]	[0.0,0.0,0.25]	IM	Abnormal/Priority/High Risk	0.0001215	0.0004215	0.001254	0	0	9.179e-05	0	0.0002107
+CYP2D6	[*4,*4N,*33]	[*4,*4N,*33]	[0.0,0.0,1.0]	IM	Abnormal/Priority/High Risk	0.0001215	0	0	0	0	0.000153	0	0
+CYP2D6	[*4,*7]	[*4,*7]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0001215	0.0002107	0	0	0	0.0001224	0.001592	0.0001054
+CYP2D6	[*41,*41,Incomplete Match]	[*41x2,Incomplete Match]	[0.5,0.5,null]	Unknown	Unknown	0.0001215	0.0002107	0	0	0	0.0001224	0.003185	0
+CYP2D6	[*6,*33]	[*6,*33]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0.0001215	0.0001054	0	0	0	0.0001377	0	0.0001054
+CYP2D6	[*6,*6]	[*6,*6]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0.0001215	0.0001054	0	0	0	0.0001377	0	0.0001054
+CYP2D6	[*9,*10,*36]	[*9,*10,*36]	[0.5,0.25,0.0]	IM	Abnormal/Priority/High Risk	0.0001215	0.0008429	0	0	0.001031	3.06e-05	0	0.0006322
+CYP2D6	[*1,*4,*68,*68,Incomplete Match]	[*1,*4,*68,*68,Incomplete Match]	[1.0,0.0,0.0,0.0,null]	Unknown	Unknown	0.0001094	0	0	0	0	0.0001377	0	0
+CYP2D6	[*2,*10,*36,*36]	[*2,*10,*36,*36]	[1.0,0.25,0.0,0.0]	NM	Normal/Routine/Low Risk	0.0001094	0.0009483	0	0	0.002577	0	0	0.0004215
+CYP2D6	[*2,*106]	[*2,*106]	[1.0,null]	Unknown	Unknown	0.0001094	0.0009483	0.003135	0.0006122	0	0	0	0.0002107
+CYP2D6	[*2,*108,Incomplete Match]	[*2,*108,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	0.0001094	0	0	0	0	0.0001377	0	0
+CYP2D6	[*2,*11]	[*2,*11]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	0.0001094	0.0001054	0	0	0	0.0001224	0	0.0001054
+CYP2D6	[*2,*35,*35]	[*2,*35x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0.0001094	0.0003161	0	0	0	9.179e-05	0	0.0003161
+CYP2D6	[*2,*4,*13,Incomplete Match]	[*2,*4,*13,Incomplete Match]	[1.0,0.0,0.0,null]	Unknown	Unknown	0.0001094	0.0003161	0	0.0006122	0	9.179e-05	0	0.0001054
+CYP2D6	[*4,*10,*36]	[*4,*10,*36]	[0.0,0.25,0.0]	IM	Abnormal/Priority/High Risk	0.0001094	0.0009483	0	0.0003061	0.002062	0	0	0.0004215
+CYP2D6	[*4,*43]	[*4,*43]	[0.0,null]	Unknown	Unknown	0.0001094	0.0007375	0.000627	0.0006122	0	3.06e-05	0	0.0004215
+CYP2D6	[*4,*68,Incomplete Match]	[*4,*68,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	0.0001094	0.0001054	0	0	0	0.0001224	0	0.0001054
+CYP2D6	[*5,*29]	[*5,*29]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	0.0001094	0.0008429	0.001881	0.0006122	0	1.53e-05	0	0.0003161
+CYP2D6	[*5,*9,Incomplete Match]	[*5,*9,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	0.0001094	0	0	0	0	0.0001377	0	0
+CYP2D6	[*1,*10,Incomplete Match]	[*1,*10,Incomplete Match]	[1.0,0.25,null]	Unknown	Unknown	9.722e-05	0.0004215	0	0	0.0005155	6.119e-05	0.003185	0.0001054
+CYP2D6	[*1,*11]	[*1,*11]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	9.722e-05	0	0	0	0	0.0001224	0	0
+CYP2D6	[*1,*4,*4,*68]	[*1,*4x2,*68]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	9.722e-05	0.0004215	0	0.0003061	0	6.119e-05	0	0.0003161
+CYP2D6	[*1,*56]	[*1,*56]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	9.722e-05	0.0005268	0.001254	0	0	4.589e-05	0	0.0003161
+CYP2D6	[*1,*62]	[*1,*62]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	9.722e-05	0.0001054	0	0	0	0.0001071	0	0.0001054
+CYP2D6	[*10,*36,*49]	[*10,*36,*49]	[0.25,0.0,0.5]	IM	Abnormal/Priority/High Risk	9.722e-05	0.0008429	0	0	0.003608	0	0	0.0001054
+CYP2D6	[*10,*36,*71]	[*10,*36,*71]	[0.25,0.0,null]	Unknown	Unknown	9.722e-05	0.0008429	0	0	0.003608	0	0	0.0001054
+CYP2D6	[*17,*106]	[*17,*106]	[0.5,null]	Unknown	Unknown	9.722e-05	0.0008429	0.004389	0	0	0	0	0.0001054
+CYP2D6	[*17,*29,Incomplete Match]	[*17,*29,Incomplete Match]	[0.5,0.5,null]	Unknown	Unknown	9.722e-05	0.0008429	0.004389	0	0	0	0	0.0001054
+CYP2D6	[*2,*13,Incomplete Match]	[*2,*13,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	9.722e-05	0.0002107	0	0	0	9.179e-05	0	0.0002107
+CYP2D6	[*2,*2,*10,*36]	[*2x2,*10,*36]	[1.0,1.0,0.25,0.0]	NM	Normal/Routine/Low Risk	9.722e-05	0.0007375	0	0	0.001546	1.53e-05	0	0.0004215
+CYP2D6	[*2,*86,Incomplete Match]	[*2,*86,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	9.722e-05	0.0007375	0	0	0	1.53e-05	0.006369	0.0003161
+CYP2D6	[*29,*41,Incomplete Match]	[*29,*41,Incomplete Match]	[0.5,0.5,null]	Unknown	Unknown	9.722e-05	0.0006322	0	0	0	3.06e-05	0	0.0006322
+CYP2D6	[*3,*5,Incomplete Match]	[*3,*5,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	9.722e-05	0.0001054	0	0	0	0.0001071	0	0.0001054
+CYP2D6	[*35,*108]	[*35,*108]	[1.0,null]	Unknown	Unknown	9.722e-05	0.0001054	0	0	0	0.0001071	0	0.0001054
+CYP2D6	[*4,*35,Incomplete Match]	[*4,*35,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	9.722e-05	0	0	0	0	0.0001224	0	0
+CYP2D6	[*4,*4,*29]	[*4x2,*29]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	9.722e-05	0.0008429	0.002508	0.0003061	0	0	0	0.0003161
+CYP2D6	[*4,*4,*9]	[*4x2,*9]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	9.722e-05	0.0003161	0	0	0	7.649e-05	0	0.0003161
+CYP2D6	[*4,*9,*68,*68]	[*4,*9,*68,*68]	[0.0,0.5,0.0,0.0]	IM	Abnormal/Priority/High Risk	9.722e-05	0.0001054	0	0	0	0.0001071	0	0.0001054
+CYP2D6	[*5,*108]	[*5,*108]	[0.0,null]	Unknown	Unknown	9.722e-05	0	0	0	0	0.0001224	0	0
+CYP2D6	[*5,*35,Incomplete Match]	[*5,*35,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	9.722e-05	0.0001054	0	0	0	0.0001071	0	0.0001054
+CYP2D6	[*6,*29]	[*6,*29]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	9.722e-05	0.0008429	0.001881	0	0	0	0	0.0005268
+CYP2D6	[*7,*41]	[*7,*41]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	9.722e-05	0.0001054	0	0	0	0.0001071	0	0.0001054
+CYP2D6	[*1,*1,chr22:42126980:TGA:T]	[*1,*1,chr22:42126980:TGA:T]	[1.0,1.0,0.0]	Unknown	Unknown	8.507e-05	0	0	0	0	0.0001071	0	0
+CYP2D6	[*1,*112]	[*1,*112]	[1.0,null]	Unknown	Unknown	8.507e-05	0.0005268	0	0	0	3.06e-05	0.003185	0.0003161
+CYP2D6	[*1,*13]	[*1,*13,*5]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	8.507e-05	0.0003161	0	0.0003061	0.0005155	6.119e-05	0	0.0001054
+CYP2D6	[*1,*34,Incomplete Match]	[*1,*34,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	8.507e-05	0.0001054	0	0	0	9.179e-05	0	0.0001054
+CYP2D6	[*1,*41,*41]	[*1,*41x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	8.507e-05	0.0002107	0	0.0003061	0	7.649e-05	0.001592	0
+CYP2D6	[*1,*49]	[*1,*49]	[1.0,0.5]	NM	Normal/Routine/Low Risk	8.507e-05	0.0006322	0	0	0.003093	1.53e-05	0	0
+CYP2D6	[*1,*58]	[*1,*58]	[1.0,null]	Unknown	Unknown	8.507e-05	0.0006322	0.000627	0.0003061	0	1.53e-05	0	0.0004215
+CYP2D6	[*10,*59]	[*10,*59]	[0.25,0.5]	IM	Abnormal/Priority/High Risk	8.507e-05	0.0001054	0	0	0	9.179e-05	0	0.0001054
+CYP2D6	[*15,*41]	[*15,*41]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	8.507e-05	0.0001054	0	0	0	9.179e-05	0.001592	0
+CYP2D6	[*2,*2,*2,*41]	[*2x3,*41]	[1.0,1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	8.507e-05	0	0	0	0	0.0001071	0	0
+CYP2D6	[*2,*2,*28]	[*2x2,*28]	[1.0,1.0,null]	Unknown	Unknown	8.507e-05	0.0003161	0.000627	0	0	6.119e-05	0	0.0002107
+CYP2D6	[*2,*36]	[*2,*36,*5]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	8.507e-05	0.0007375	0.001881	0	0.0005155	0	0	0.0003161
+CYP2D6	[*2,*46]	[*2,*46]	[1.0,1.0]	NM	Normal/Routine/Low Risk	8.507e-05	0.0006322	0.000627	0	0	1.53e-05	0	0.0005268
+CYP2D6	[*2,*9,*9]	[*2,*9x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	8.507e-05	0.0003161	0	0.0003061	0	6.119e-05	0	0.0002107
+CYP2D6	[*3,*10,*36]	[*3,*10,*36]	[0.0,0.25,0.0]	IM	Abnormal/Priority/High Risk	8.507e-05	0.0007375	0	0	0	0	0	0.0007375
+CYP2D6	[*3,*29]	[*3,*29]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	8.507e-05	0.0006322	0	0	0	1.53e-05	0	0.0006322
+CYP2D6	[*39,*41]	[*39,*41]	[1.0,0.5]	NM	Normal/Routine/Low Risk	8.507e-05	0.0001054	0	0	0.0005155	9.179e-05	0	0
+CYP2D6	[*4,*10,*68,*68]	[*4,*10,*68,*68]	[0.0,0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	8.507e-05	0.0001054	0	0	0	9.179e-05	0	0.0001054
+CYP2D6	[*4,*10,Incomplete Match]	[*4,*10,Incomplete Match]	[0.0,0.25,null]	Unknown	Unknown	8.507e-05	0	0	0	0	0.0001071	0	0
+CYP2D6	[*4,*39,*68]	[*4,*39,*68]	[0.0,1.0,0.0]	IM	Abnormal/Priority/High Risk	8.507e-05	0	0	0	0	0.0001071	0	0
+CYP2D6	[*4,*4,*45]	[*4x2,*45]	[0.0,0.0,1.0]	IM	Abnormal/Priority/High Risk	8.507e-05	0.0007375	0.003135	0	0	0	0	0.0002107
+CYP2D6	[*6,*10,*36]	[*6,*10,*36]	[0.0,0.25,0.0]	IM	Abnormal/Priority/High Risk	8.507e-05	0.0006322	0	0	0	1.53e-05	0	0.0006322
+CYP2D6	[*6,*17]	[*6,*17]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	8.507e-05	0.0001054	0.000627	0	0	9.179e-05	0	0
+CYP2D6	[*1,*1,*1,*1,*1]	[*1,*1x4]	[1.0,1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	7.291e-05	0.0001054	0	0	0	7.649e-05	0	0.0001054
+CYP2D6	[*1,*1,*17]	[*1x2,*17]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	7.291e-05	0.0005268	0.001254	0	0	1.53e-05	0	0.0003161
+CYP2D6	[*1,*17,*17]	[*1,*17x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	7.291e-05	0.0004215	0.001254	0	0	3.06e-05	0	0.0002107
+CYP2D6	[*1,*29,*29]	[*1,*29x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	7.291e-05	0.0006322	0	0	0	0	0	0.0006322
+CYP2D6	[*1,*4,chr22:42126980:TGA:T]	[*1,*4,chr22:42126980:TGA:T]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	7.291e-05	0	0	0	0	9.179e-05	0	0
+CYP2D6	[*1,*6,*6]	[*1,*6x2]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	7.291e-05	0.0001054	0.000627	0	0	7.649e-05	0	0
+CYP2D6	[*1,*61]	[*1,*61,*5]	[1.0,null]	Unknown	Unknown	7.291e-05	0.0001054	0	0	0	7.649e-05	0	0.0001054
+CYP2D6	[*1,*68]	[*1,*68,*5]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	7.291e-05	0.0001054	0	0.0003061	0	7.649e-05	0	0
+CYP2D6	[*10,*71]	[*10,*71]	[0.25,null]	Unknown	Unknown	7.291e-05	0.0006322	0	0	0.002062	0	0	0.0002107
+CYP2D6	[*17,*43]	[*17,*43]	[0.5,null]	Unknown	Unknown	7.291e-05	0.0006322	0.003135	0	0	0	0	0.0001054
+CYP2D6	[*2,*2,*4,*4]	[*2x2,*4x2]	[1.0,1.0,0.0,0.0]	NM	Normal/Routine/Low Risk	7.291e-05	0.0004215	0.000627	0.0003061	0	3.06e-05	0	0.0002107
+CYP2D6	[*2,*2,*4,Incomplete Match]	[*2x2,*4,Incomplete Match]	[1.0,1.0,0.0,null]	Unknown	Unknown	7.291e-05	0	0	0	0	9.179e-05	0	0
+CYP2D6	[*2,*31]	[*2,*31]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	7.291e-05	0.0005268	0	0	0	1.53e-05	0	0.0005268
+CYP2D6	[*2,*36,*64]	[*2,*36,*64]	[1.0,0.0,null]	Unknown	Unknown	7.291e-05	0.0006322	0.001254	0	0	0	0	0.0004215
+CYP2D6	[*2,*62]	[*2,*62]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	7.291e-05	0.0001054	0	0	0	7.649e-05	0	0.0001054
+CYP2D6	[*29,*29]	[*29,*29]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	7.291e-05	0.0006322	0.001881	0	0	0	0	0.0003161
+CYP2D6	[*29,*35]	[*29,*35]	[0.5,1.0]	NM	Normal/Routine/Low Risk	7.291e-05	0.0004215	0	0	0	3.06e-05	0	0.0004215
+CYP2D6	[*3,*17]	[*3,*17]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	7.291e-05	0.0006322	0	0	0	0	0	0.0006322
+CYP2D6	[*3,*28]	[*3,*28]	[0.0,null]	Unknown	Unknown	7.291e-05	0.0001054	0	0	0	7.649e-05	0	0.0001054
+CYP2D6	[*4,*10,*10,*68]	[*4,*10x2,*68]	[0.0,0.25,0.25,0.0]	IM	Abnormal/Priority/High Risk	7.291e-05	0.0006322	0	0	0	0	0	0.0006322
+CYP2D6	[*4,*13,Incomplete Match]	[*4,*13,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	7.291e-05	0	0	0	0	9.179e-05	0	0
+CYP2D6	[*4,*40]	[*4,*40]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	7.291e-05	0.0005268	0	0	0	1.53e-05	0	0.0005268
+CYP2D6	[*4,*9,*9]	[*4,*9x2]	[0.0,0.5,0.5]	IM	Abnormal/Priority/High Risk	7.291e-05	0.0003161	0	0	0	4.589e-05	0	0.0003161
+CYP2D6	[*4N,*10,*10,*68]	[*4N,*10,*10,*68]	[0.0,0.25,0.25,0.0]	IM	Abnormal/Priority/High Risk	7.291e-05	0.0006322	0.000627	0	0	0	0	0.0005268
+CYP2D6	[*6,*22]	[*6,*22]	[0.0,null]	Unknown	Unknown	7.291e-05	0.0001054	0	0	0	7.649e-05	0	0.0001054
+CYP2D6	[*6,*59]	[*6,*59]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	7.291e-05	0	0	0	0	9.179e-05	0	0
+CYP2D6	[*9,*22]	[*9,*22]	[0.5,null]	Unknown	Unknown	7.291e-05	0	0	0	0	9.179e-05	0	0
+CYP2D6	[*1,*1,*1,*2]	[*1x3,*2]	[1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	6.076e-05	0.0002107	0	0.0006122	0	4.589e-05	0	0
+CYP2D6	[*1,*1,*22]	[*1x2,*22]	[1.0,1.0,null]	Unknown	Unknown	6.076e-05	0.0002107	0	0	0	4.589e-05	0	0.0002107
+CYP2D6	[*1,*1,*39]	[*1x2,*39]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*1,*1,chr22:42126914:CG:C]	[*1,*1,chr22:42126914:CG:C]	[1.0,1.0,0.0]	Unknown	Unknown	6.076e-05	0.0003161	0	0.0006122	0	3.06e-05	0	0.0001054
+CYP2D6	[*1,*10,*36,Incomplete Match]	[*1,*10,*36,Incomplete Match]	[1.0,0.25,0.0,null]	Unknown	Unknown	6.076e-05	0.0005268	0	0	0.001546	0	0	0.0002107
+CYP2D6	[*1,*113]	[*1,*113]	[1.0,null]	Unknown	Unknown	6.076e-05	0.0005268	0	0	0	0	0.006369	0.0001054
+CYP2D6	[*1,*12,Incomplete Match]	[*1,*12,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	6.076e-05	0.0005268	0.001254	0	0	0	0	0.0003161
+CYP2D6	[*1,*2,*2,Incomplete Match]	[*1,*2x2,Incomplete Match]	[1.0,1.0,1.0,null]	Unknown	Unknown	6.076e-05	0.0003161	0	0.0006122	0	3.06e-05	0	0.0001054
+CYP2D6	[*1,*2,chr22:42126980:TGA:T]	[*1,*2,chr22:42126980:TGA:T]	[1.0,1.0,0.0]	Unknown	Unknown	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*1,*36,*36]	[*1,*36,*36,*5]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	6.076e-05	0.0005268	0	0	0.002062	0	0	0.0001054
+CYP2D6	[*1,*36,Incomplete Match]	[*1,*36,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	6.076e-05	0.0004215	0.001254	0	0	1.53e-05	0	0.0002107
+CYP2D6	[*1,*42]	[*1,*42]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	6.076e-05	0.0005268	0.001254	0.0003061	0	0	0	0.0002107
+CYP2D6	[*1,*4N]	[*1,*4N,*5]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	6.076e-05	0.0001054	0	0	0	6.119e-05	0	0.0001054
+CYP2D6	[*1,*6,Incomplete Match]	[*1,*6,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	6.076e-05	0.0002107	0	0.0003061	0	4.589e-05	0	0.0001054
+CYP2D6	[*1,*74]	[*1,*74]	[1.0,null]	Unknown	Unknown	6.076e-05	0.0003161	0	0.0009183	0	3.06e-05	0	0
+CYP2D6	[*1,*84]	[*1,*84]	[1.0,null]	Unknown	Unknown	6.076e-05	0.0004215	0.001254	0	0	1.53e-05	0	0.0002107
+CYP2D6	[*10,*28]	[*10,*28]	[0.25,null]	Unknown	Unknown	6.076e-05	0.0003161	0	0	0	3.06e-05	0	0.0003161
+CYP2D6	[*14,*41]	[*14,*41]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	6.076e-05	0.0005268	0	0	0.002062	0	0	0.0001054
+CYP2D6	[*17,*46]	[*17,*46]	[0.5,1.0]	NM	Normal/Routine/Low Risk	6.076e-05	0.0004215	0.001881	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*2,*14]	[*2,*14]	[1.0,0.5]	NM	Normal/Routine/Low Risk	6.076e-05	0.0005268	0	0	0.001031	0	0	0.0003161
+CYP2D6	[*2,*2,*2,*35]	[*2x3,*35]	[1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*2,*22,Incomplete Match]	[*2,*22,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	6.076e-05	0.0002107	0.000627	0	0	4.589e-05	0	0.0001054
+CYP2D6	[*2,*41,*41]	[*2,*41x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	6.076e-05	0.0001054	0	0	0	6.119e-05	0	0.0001054
+CYP2D6	[*2,*84]	[*2,*84]	[1.0,null]	Unknown	Unknown	6.076e-05	0.0004215	0.000627	0.0003061	0	1.53e-05	0	0.0002107
+CYP2D6	[*2,*9,Incomplete Match]	[*2,*9,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*39,*41,Incomplete Match]	[*39,*41,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	6.076e-05	0.0003161	0	0.0006122	0	3.06e-05	0	0.0001054
+CYP2D6	[*4,*33,*68,*68]	[*4,*33,*68,*68]	[0.0,1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*4,*35,*35,*68]	[*4,*35x2,*68]	[0.0,1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*4,*35,*68,*68,Incomplete Match]	[*4,*35,*68,*68,Incomplete Match]	[0.0,1.0,0.0,0.0,null]	Unknown	Unknown	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*4,*4,*4,*4]	[*4,*4x3]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	6.076e-05	0.0005268	0.001881	0	0	0	0	0.0002107
+CYP2D6	[*4,*4,*4N,*68]	[*4,*4,*4N,*68]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*4,*4,*68,Incomplete Match]	[*4x2,*68,Incomplete Match]	[0.0,0.0,0.0,null]	Unknown	Unknown	6.076e-05	0.0001054	0	0	0	6.119e-05	0	0.0001054
+CYP2D6	[*4,*41,*68,Incomplete Match]	[*4,*41,*68,Incomplete Match]	[0.0,0.5,0.0,null]	Unknown	Unknown	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*4,*4N,*10]	[*4,*4N,*10]	[0.0,0.0,0.25]	IM	Abnormal/Priority/High Risk	6.076e-05	0.0001054	0	0	0	6.119e-05	0	0.0001054
+CYP2D6	[*4,*4N,*17]	[*4,*4N,*17]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	6.076e-05	0.0004215	0.001254	0.0003061	0	1.53e-05	0	0.0001054
+CYP2D6	[*4,*53]	[*4,*53]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	6.076e-05	0.0005268	0	0.001224	0	0	0	0.0001054
+CYP2D6	[*4,*6,*6]	[*4,*6x2]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*4,*62]	[*4,*62]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	6.076e-05	0.0001054	0	0	0	6.119e-05	0	0.0001054
+CYP2D6	[*4,*68,*108]	[*4,*68,*108]	[0.0,0.0,null]	Unknown	Unknown	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*4,*68,*74,Incomplete Match]	[*4,*68,*74,Incomplete Match]	[0.0,0.0,null,null]	Unknown	Unknown	6.076e-05	0.0003161	0	0.0009183	0	3.06e-05	0	0
+CYP2D6	[*41,*106]	[*41,*106]	[0.5,null]	Unknown	Unknown	6.076e-05	0.0003161	0.001254	0	0	3.06e-05	0	0.0001054
+CYP2D6	[*41,*62]	[*41,*62]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	6.076e-05	0.0002107	0	0.0006122	0	4.589e-05	0	0
+CYP2D6	[*5,*33,Incomplete Match]	[*5,*33,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*9,*41,Incomplete Match]	[*9,*41,Incomplete Match]	[0.5,0.5,null]	Unknown	Unknown	6.076e-05	0	0	0	0	7.649e-05	0	0
+CYP2D6	[*1,*1,*1,Incomplete Match]	[*1x3,Incomplete Match]	[1.0,1.0,1.0,null]	Unknown	Unknown	4.861e-05	0.0003161	0	0.0003061	0	1.53e-05	0	0.0002107
+CYP2D6	[*1,*1,*4,Incomplete Match]	[*1x2,*4,Incomplete Match]	[1.0,1.0,0.0,null]	Unknown	Unknown	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*1,*1,*59]	[*1x2,*59]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*1,*1,*61]	[*1,*1,*61]	[1.0,1.0,null]	Unknown	Unknown	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*1,*21]	[*1,*21]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	4.861e-05	0.0004215	0	0	0.001031	0	0	0.0002107
+CYP2D6	[*1,*35,*68]	[*1,*35,*68]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	4.861e-05	0.0002107	0	0	0	3.06e-05	0	0.0002107
+CYP2D6	[*1,*4,*4,*4]	[*1,*4x3]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	4.861e-05	0.0003161	0.000627	0	0	1.53e-05	0	0.0002107
+CYP2D6	[*1,*4,*4N,*4N]	[*1,*4,*4N,*4N]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*1,*41,*41,*41]	[*1,*41x3]	[1.0,0.5,0.5,0.5]	UM	Abnormal/Priority/High Risk	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*1,*52]	[*1,*52]	[1.0,null]	Unknown	Unknown	4.861e-05	0.0004215	0.001254	0	0.0005155	0	0	0.0001054
+CYP2D6	[*1,*59,Incomplete Match]	[*1,*59,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*1,*89]	[*1,*89]	[1.0,null]	Unknown	Unknown	4.861e-05	0.0001054	0	0	0	4.589e-05	0	0.0001054
+CYP2D6	[*10,*108,Incomplete Match]	[*10,*108,Incomplete Match]	[0.25,null,null]	Unknown	Unknown	4.861e-05	0.0001054	0	0	0	4.589e-05	0	0.0001054
+CYP2D6	[*10,*45]	[*10,*45]	[0.25,1.0]	NM	Normal/Routine/Low Risk	4.861e-05	0.0004215	0.001881	0	0	0	0	0.0001054
+CYP2D6	[*17,*43,*43]	[*17,*43x2]	[0.5,null,null]	Unknown	Unknown	4.861e-05	0.0004215	0.002508	0	0	0	0	0
+CYP2D6	[*17,*84]	[*17,*84]	[0.5,null]	Unknown	Unknown	4.861e-05	0.0004215	0.001881	0.0003061	0	0	0	0
+CYP2D6	[*2,*2,*2,*10]	[*2x3,*10]	[1.0,1.0,1.0,0.25]	UM	Abnormal/Priority/High Risk	4.861e-05	0.0001054	0	0	0	4.589e-05	0	0.0001054
+CYP2D6	[*2,*2,*40]	[*2x2,*40]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	4.861e-05	0.0004215	0.001254	0	0	0	0	0.0002107
+CYP2D6	[*2,*41,*41,*41]	[*2,*41x3]	[1.0,0.5,0.5,0.5]	UM	Abnormal/Priority/High Risk	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*2,*6,Incomplete Match]	[*2,*6,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*2,*74]	[*2,*74]	[1.0,null]	Unknown	Unknown	4.861e-05	0.0004215	0	0.0009183	0	0	0	0.0001054
+CYP2D6	[*29,*106]	[*29,*106]	[0.5,null]	Unknown	Unknown	4.861e-05	0.0004215	0.002508	0	0	0	0	0
+CYP2D6	[*29,*35,Incomplete Match]	[*29,*35,Incomplete Match]	[0.5,1.0,null]	Unknown	Unknown	4.861e-05	0.0004215	0	0	0	0	0	0.0004215
+CYP2D6	[*29,*45,Incomplete Match]	[*29,*45,Incomplete Match]	[0.5,1.0,null]	Unknown	Unknown	4.861e-05	0.0004215	0.001881	0	0	0	0	0.0001054
+CYP2D6	[*29,*46]	[*29,*46]	[0.5,1.0]	NM	Normal/Routine/Low Risk	4.861e-05	0.0004215	0.000627	0.0003061	0	0	0	0.0002107
+CYP2D6	[*3,*22]	[*3,*22]	[0.0,null]	Unknown	Unknown	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*3,*41,Incomplete Match]	[*3,*41,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*33,*41,Incomplete Match]	[*33,*41,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*35,*39]	[*35,*39]	[1.0,1.0]	NM	Normal/Routine/Low Risk	4.861e-05	0.0001054	0	0	0	4.589e-05	0	0.0001054
+CYP2D6	[*35,*41,*41]	[*35,*41x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*35,*43]	[*35,*43]	[1.0,null]	Unknown	Unknown	4.861e-05	0.0002107	0	0	0	3.06e-05	0	0.0002107
+CYP2D6	[*4,*10,*10]	[*4,*10x2]	[0.0,0.25,0.25]	IM	Abnormal/Priority/High Risk	4.861e-05	0.0004215	0	0	0.0005155	0	0	0.0003161
+CYP2D6	[*4,*11,*68]	[*4,*11,*68]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	4.861e-05	0.0001054	0	0.0003061	0	4.589e-05	0	0
+CYP2D6	[*4,*31]	[*4,*31]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	4.861e-05	0.0004215	0	0.0003061	0	0	0	0.0003161
+CYP2D6	[*4,*45,*68]	[*4,*45,*68]	[0.0,1.0,0.0]	IM	Abnormal/Priority/High Risk	4.861e-05	0.0003161	0.000627	0	0	1.53e-05	0	0.0002107
+CYP2D6	[*40,*41]	[*40,*41]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	4.861e-05	0.0004215	0.000627	0.0006122	0	0	0	0.0001054
+CYP2D6	[*41,*112]	[*41,*112]	[0.5,null]	Unknown	Unknown	4.861e-05	0.0002107	0	0	0	3.06e-05	0.003185	0
+CYP2D6	[*4N,*39]	[*4N,*39,*5]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	4.861e-05	0.0002107	0	0	0	3.06e-05	0	0.0002107
+CYP2D6	[*5,*106]	[*5,*106]	[0.0,null]	Unknown	Unknown	4.861e-05	0.0004215	0.001881	0	0	0	0	0.0001054
+CYP2D6	[*5,*31]	[*5,*31]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	4.861e-05	0.0003161	0	0	0	1.53e-05	0	0.0003161
+CYP2D6	[*5,*39,Incomplete Match]	[*5,*39,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*5,*49]	[*5,*49]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	4.861e-05	0.0004215	0	0	0.001546	0	0	0.0001054
+CYP2D6	[*6,*28]	[*6,*28]	[0.0,null]	Unknown	Unknown	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*86,*86]	[*86,*86]	[null,null]	Unknown	Unknown	4.861e-05	0.0004215	0	0	0	0	0.006369	0
+CYP2D6	[*9,*35,*35]	[*9,*35x2]	[0.5,1.0,1.0]	UM	Abnormal/Priority/High Risk	4.861e-05	0	0	0	0	6.119e-05	0	0
+CYP2D6	[*1,*1,*1,*4]	[*1x3,*4]	[1.0,1.0,1.0,0.0]	UM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*1,*1,*1,*41]	[*1x3,*41]	[1.0,1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*1,*1,*10,*36]	[*1x2,*10,*36]	[1.0,1.0,0.25,0.0]	NM	Normal/Routine/Low Risk	3.646e-05	0.0003161	0	0	0.0005155	0	0	0.0002107
+CYP2D6	[*1,*1,*2,Incomplete Match]	[*1x2,*2,Incomplete Match]	[1.0,1.0,1.0,null]	Unknown	Unknown	3.646e-05	0.0002107	0	0.0003061	0	1.53e-05	0	0.0001054
+CYP2D6	[*1,*1,*27]	[*1x2,*27]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	3.646e-05	0.0001054	0	0	0	3.06e-05	0	0.0001054
+CYP2D6	[*1,*1,*29]	[*1x2,*29]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	3.646e-05	0.0002107	0.000627	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*1,*10,*68]	[*1,*10,*68]	[1.0,0.25,0.0]	NM	Normal/Routine/Low Risk	3.646e-05	0.0003161	0	0	0.0005155	0	0	0.0002107
+CYP2D6	[*1,*10,*68,*68]	[*1,*10,*68,*68]	[1.0,0.25,0.0,0.0]	NM	Normal/Routine/Low Risk	3.646e-05	0.0001054	0	0	0	3.06e-05	0	0.0001054
+CYP2D6	[*1,*17,Incomplete Match]	[*1,*17,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	3.646e-05	0.0002107	0.000627	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*1,*27]	[*1,*27]	[1.0,1.0]	NM	Normal/Routine/Low Risk	3.646e-05	0.0002107	0.000627	0.0003061	0	1.53e-05	0	0
+CYP2D6	[*1,*28,Incomplete Match]	[*1,*28,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	3.646e-05	0.0001054	0	0	0	3.06e-05	0	0.0001054
+CYP2D6	[*1,*29,Incomplete Match]	[*1,*29,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	3.646e-05	0.0003161	0.001254	0.0003061	0	0	0	0
+CYP2D6	[*1,*41,chr22:42126980:TGA:T]	[*1,*41,chr22:42126980:TGA:T]	[1.0,0.5,0.0]	Unknown	Unknown	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*1,*41,chr22:42128326:G:GC,chr22:42128327:GAGGA:G]	[*1,*41,chr22:42128326:G:GC,chr22:42128327:GAGGA:G]	[1.0,0.5,0.0,0.0]	Unknown	Unknown	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*1,*43,*43]	[*1,*43x2]	[1.0,null,null]	Unknown	Unknown	3.646e-05	0.0003161	0	0.0003061	0	0	0	0.0002107
+CYP2D6	[*1,*63]	[*1,*63,*5]	[1.0,null]	Unknown	Unknown	3.646e-05	0.0001054	0.000627	0	0	3.06e-05	0	0
+CYP2D6	[*10,*29,*36]	[*10,*29,*36]	[0.25,0.5,0.0]	IM	Abnormal/Priority/High Risk	3.646e-05	0.0003161	0	0	0	0	0	0.0003161
+CYP2D6	[*10,*33,*36]	[*10,*33,*36]	[0.25,1.0,0.0]	NM	Normal/Routine/Low Risk	3.646e-05	0.0003161	0	0	0	0	0	0.0003161
+CYP2D6	[*10,*36,*36,*41]	[*10,*36,*36,*41]	[0.25,0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	3.646e-05	0.0003161	0	0	0.0005155	0	0	0.0002107
+CYP2D6	[*10,*49]	[*10,*49]	[0.25,0.5]	IM	Abnormal/Priority/High Risk	3.646e-05	0.0003161	0	0	0.001546	0	0	0
+CYP2D6	[*13,*41]	[*13,*41,*5]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*13,*41,Incomplete Match]	[*13,*41,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*17,*40]	[*17,*40]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	3.646e-05	0.0003161	0.001881	0	0	0	0	0
+CYP2D6	[*17,*59]	[*17,*59]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	3.646e-05	0.0002107	0	0	0	1.53e-05	0	0.0002107
+CYP2D6	[*2,*10,*10]	[*2,*10x2]	[1.0,0.25,0.25]	NM	Normal/Routine/Low Risk	3.646e-05	0.0003161	0	0	0.0005155	0	0	0.0002107
+CYP2D6	[*2,*112]	[*2,*112]	[1.0,null]	Unknown	Unknown	3.646e-05	0.0002107	0.000627	0	0	1.53e-05	0.001592	0
+CYP2D6	[*2,*2,*108]	[*2x2,*108]	[1.0,1.0,null]	Unknown	Unknown	3.646e-05	0.0001054	0	0	0	3.06e-05	0	0.0001054
+CYP2D6	[*2,*2,*2,*4,*68]	[*2x3,*4,*68]	[1.0,1.0,1.0,0.0,0.0]	UM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*2,*2,*2,*9]	[*2x3,*9]	[1.0,1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	3.646e-05	0.0001054	0	0	0	3.06e-05	0	0.0001054
+CYP2D6	[*2,*2,*2,Incomplete Match]	[*2x3,Incomplete Match]	[1.0,1.0,1.0,null]	Unknown	Unknown	3.646e-05	0.0002107	0	0.0006122	0	1.53e-05	0	0
+CYP2D6	[*2,*2,*4,*68,Incomplete Match]	[*2x2,*4,*68,Incomplete Match]	[1.0,1.0,0.0,0.0,null]	Unknown	Unknown	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*2,*2,*43]	[*2x2,*43]	[1.0,1.0,null]	Unknown	Unknown	3.646e-05	0.0003161	0	0.0003061	0	0	0	0.0002107
+CYP2D6	[*2,*2,*59]	[*2x2,*59]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	3.646e-05	0.0001054	0	0	0	3.06e-05	0	0.0001054
+CYP2D6	[*2,*42]	[*2,*42]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	3.646e-05	0.0002107	0	0.0003061	0	1.53e-05	0	0.0001054
+CYP2D6	[*2,*4N]	[*2,*4N,*5]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*2,*4N,*65]	[*2,*4N,*65]	[1.0,0.0,null]	Unknown	Unknown	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*2,*58]	[*2,*58]	[1.0,null]	Unknown	Unknown	3.646e-05	0.0003161	0.000627	0	0	0	0	0.0002107
+CYP2D6	[*2,*71]	[*2,*71]	[1.0,null]	Unknown	Unknown	3.646e-05	0.0003161	0	0	0	0	0	0.0003161
+CYP2D6	[*2,*89]	[*2,*89]	[1.0,null]	Unknown	Unknown	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*28,*33]	[*28,*33]	[null,1.0]	Unknown	Unknown	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*29,*39,Incomplete Match]	[*29,*39,Incomplete Match]	[0.5,1.0,null]	Unknown	Unknown	3.646e-05	0.0003161	0.000627	0	0	0	0	0.0002107
+CYP2D6	[*29,*40]	[*29,*40]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	3.646e-05	0.0003161	0.001881	0	0	0	0	0
+CYP2D6	[*3,*3,*4,*68]	[*3x2,*4,*68]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*3,*4,*68,*68]	[*3,*4,*68,*68]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*3,*4,Incomplete Match]	[*3,*4,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*3,*7]	[*3,*7]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*33,*35,Incomplete Match]	[*33,*35,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	3.646e-05	0.0001054	0	0	0	3.06e-05	0	0.0001054
+CYP2D6	[*33,*59]	[*33,*59]	[1.0,0.5]	NM	Normal/Routine/Low Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*4,*11]	[*4,*11]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*4,*15]	[*4,*15]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*4,*4,*33]	[*4x2,*33]	[0.0,0.0,1.0]	IM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*4,*4,*4,*68,*68]	[*4,*4x2,*68,*68]	[0.0,0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*4,*4,*4N,Incomplete Match]	[*4x2,*4N,Incomplete Match]	[0.0,0.0,0.0,null]	Unknown	Unknown	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*4,*4,*6]	[*4x2,*6]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*4,*41,*41]	[*4,*41x2]	[0.0,0.5,0.5]	IM	Abnormal/Priority/High Risk	3.646e-05	0.0001054	0	0	0	3.06e-05	0.001592	0
+CYP2D6	[*4,*43,*68]	[*4,*43,*68]	[0.0,null,0.0]	Unknown	Unknown	3.646e-05	0.0002107	0	0	0	1.53e-05	0	0.0002107
+CYP2D6	[*4,*4N,*4N,*35]	[*4,*4N,*4N,*35]	[0.0,0.0,0.0,1.0]	IM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*4,*6,*68,*68]	[*4,*6,*68,*68]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*4,*65]	[*4,*65]	[0.0,null]	Unknown	Unknown	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*41,*41,*41,*41]	[*41,*41x3]	[0.5,0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*41,*71]	[*41,*71]	[0.5,null]	Unknown	Unknown	3.646e-05	0.0002107	0	0	0.0005155	1.53e-05	0	0.0001054
+CYP2D6	[*41,*74,Incomplete Match]	[*41,*74,Incomplete Match]	[0.5,null,null]	Unknown	Unknown	3.646e-05	0.0002107	0	0.0003061	0	1.53e-05	0	0.0001054
+CYP2D6	[*5,*13,Incomplete Match]	[*5,*13,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	3.646e-05	0.0001054	0	0	0	3.06e-05	0	0.0001054
+CYP2D6	[*5,*14]	[*5,*14]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	3.646e-05	0.0003161	0	0	0.001031	0	0	0.0001054
+CYP2D6	[*5,*40]	[*5,*40]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	3.646e-05	0.0003161	0.001881	0	0	0	0	0
+CYP2D6	[*5,*46]	[*5,*46]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	3.646e-05	0.0003161	0.000627	0	0	0	0	0.0002107
+CYP2D6	[*6,*13]	[*6,*13,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*6,*6,*41]	[*6x2,*41]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*7,*35]	[*7,*35]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*7,*9]	[*7,*9]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*9,*108]	[*9,*108]	[0.5,null]	Unknown	Unknown	3.646e-05	0	0	0	0	4.589e-05	0	0
+CYP2D6	[*9,*9,*41]	[*9x2,*41]	[0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	3.646e-05	0.0001054	0	0	0	3.06e-05	0	0.0001054
+CYP2D6	[*1,*1,*1,*1,*2]	[*1x4,*2]	[1.0,1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	2.43e-05	0.0001054	0	0.0003061	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*1,*1,*4]	[*1x4,*4]	[1.0,1.0,1.0,1.0,0.0]	UM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*1,*1,*1,*41]	[*1x4,*41]	[1.0,1.0,1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*1,*1,*3]	[*1x3,*3]	[1.0,1.0,1.0,0.0]	UM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*1,*1,*4,*68]	[*1x3,*4,*68]	[1.0,1.0,1.0,0.0,0.0]	UM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0	0	0	0.0002107
+CYP2D6	[*1,*1,*1,*61]	[*1,*1x2,*61]	[1.0,1.0,1.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*1,*1,*1,*9]	[*1x3,*9]	[1.0,1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*1,*1,*28]	[*1x2,*28]	[1.0,1.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*1,*32]	[*1x2,*32]	[1.0,1.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*1,*4,*4N]	[*1x2,*4,*4N]	[1.0,1.0,0.0,0.0]	NM	Normal/Routine/Low Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*1,*53]	[*1x2,*53]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*10,*10,*10]	[*1,*10x3]	[1.0,0.25,0.25,0.25]	NM	Normal/Routine/Low Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*10,*10,*36]	[*1,*10x2,*36]	[1.0,0.25,0.25,0.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0	0	0.0005155	0	0.001592	0
+CYP2D6	[*1,*10,*10,*36,*36]	[*1,*10x2,*36,*36]	[1.0,0.25,0.25,0.0,0.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0	0.0003061	0.0005155	0	0	0
+CYP2D6	[*1,*110]	[*1,*110]	[1.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*13,Incomplete Match]	[*1,*13,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*2,*13]	[*1,*2,*13]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*2,chr22:42126914:CG:C]	[*1,*2,chr22:42126914:CG:C]	[1.0,1.0,0.0]	Unknown	Unknown	2.43e-05	0.0001054	0	0.0003061	0	1.53e-05	0	0
+CYP2D6	[*1,*3,*3]	[*1,*3x2]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*32]	[*1,*32]	[1.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*33,*33]	[*1,*33x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*35,*63]	[*1,*35,*63]	[1.0,1.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*39,*68]	[*1,*39,*68]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0001054	0	0	0	1.53e-05	0.001592	0
+CYP2D6	[*1,*4,*4N,Incomplete Match]	[*1,*4,*4N,Incomplete Match]	[1.0,0.0,0.0,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*1,*4,*68,chr22:42126980:TGA:T]	[*1,*4,*68,chr22:42126980:TGA:T]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*41,*63]	[*1,*41,*63]	[1.0,0.5,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0.0003061	0	1.53e-05	0	0
+CYP2D6	[*1,*43,Incomplete Match]	[*1,*43,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*1,*50]	[*1,*50]	[1.0,0.5]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0	0	0.0005155	0	0	0.0001054
+CYP2D6	[*1,*9,Incomplete Match]	[*1,*9,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*1,*94]	[*1,*94]	[1.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0.0005155	0	0	0.0001054
+CYP2D6	[*10,*10,*10,*10,*36]	[*10,*10x3,*36]	[0.25,0.25,0.25,0.25,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0.001031	0	0	0
+CYP2D6	[*10,*10,*17]	[*10x2,*17]	[0.25,0.25,0.5]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*10,*10,*41]	[*10x2,*41]	[0.25,0.25,0.5]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0.0005155	0	0	0.0001054
+CYP2D6	[*10,*10,*68]	[*10,*10,*68]	[0.25,0.25,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0.0005155	0	0	0.0001054
+CYP2D6	[*10,*108]	[*10,*108]	[0.25,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*10,*11]	[*10,*11]	[0.25,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0	0	0	0.0002107
+CYP2D6	[*10,*17,*17]	[*10,*17x2]	[0.25,0.5,0.5]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*10,*28,*36]	[*10,*28,*36]	[0.25,null,0.0]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*10,*35,*35]	[*10,*35x2]	[0.25,1.0,1.0]	NM	Normal/Routine/Low Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*10,*36,*36]	[*10,*36,*36,*5]	[0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0.001031	0	0	0
+CYP2D6	[*10,*36,*39]	[*10,*36,*39]	[0.25,0.0,1.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0	0	0.0005155	0	0	0.0001054
+CYP2D6	[*10,*36,*43]	[*10,*36,*43]	[0.25,0.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0.0005155	0	0.001592	0
+CYP2D6	[*10,*41,Incomplete Match]	[*10,*41,Incomplete Match]	[0.25,0.5,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*10,*46]	[*10,*46]	[0.25,1.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0.000627	0.0003061	0	0	0	0
+CYP2D6	[*10,*61]	[*10,*61,*5]	[0.25,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0.001592	0
+CYP2D6	[*10,*94]	[*10,*94]	[0.25,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0.001031	0	0	0
+CYP2D6	[*108,*108]	[*108,*108]	[null,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*11,*35]	[*11,*35]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*11,*41]	[*11,*41]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*13,*39,Incomplete Match]	[*13,*39,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0.0003061	0	1.53e-05	0	0
+CYP2D6	[*17,*17,*41]	[*17x2,*41]	[0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*17,*35,Incomplete Match]	[*17,*35,Incomplete Match]	[0.5,1.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*17,*41,Incomplete Match]	[*17,*41,Incomplete Match]	[0.5,0.5,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0	0	0	0.0002107
+CYP2D6	[*2,*10,*10,*36]	[*2,*10x2,*36]	[1.0,0.25,0.25,0.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0	0	0.001031	0	0	0
+CYP2D6	[*2,*10,*68]	[*2,*10,*68]	[1.0,0.25,0.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0001054	0	0	0.0005155	1.53e-05	0	0
+CYP2D6	[*2,*101]	[*2,*101]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0.0003061	0	0	0	0.0001054
+CYP2D6	[*2,*110]	[*2,*110]	[1.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0.0005155	0	0	0.0001054
+CYP2D6	[*2,*111]	[*2,*111]	[1.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0	0	0.003185	0
+CYP2D6	[*2,*113]	[*2,*113]	[1.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0	0	0	0.0002107
+CYP2D6	[*2,*17,*17]	[*2,*17x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*2,*17,Incomplete Match]	[*2,*17,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0	0	0	0.0002107
+CYP2D6	[*2,*2,*2,*59]	[*2x3,*59]	[1.0,1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*2,*2,*2,*6]	[*2x3,*6]	[1.0,1.0,1.0,0.0]	UM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*2,*2,*22]	[*2x2,*22]	[1.0,1.0,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*2,*2,*29,Incomplete Match]	[*2x2,*29,Incomplete Match]	[1.0,1.0,0.5,null]	Unknown	Unknown	2.43e-05	0.0002107	0.000627	0.0003061	0	0	0	0
+CYP2D6	[*2,*2,*4,*4N]	[*2x2,*4,*4N]	[1.0,1.0,0.0,0.0]	NM	Normal/Routine/Low Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*2,*2,*4,*68,*68]	[*2x2,*4,*68,*68]	[1.0,1.0,0.0,0.0,0.0]	NM	Normal/Routine/Low Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*2,*2,*41,*41]	[*2x2,*41x2]	[1.0,1.0,0.5,0.5]	UM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*2,*2,*45]	[*2x2,*45]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	2.43e-05	0.0001054	0.000627	0	0	1.53e-05	0	0
+CYP2D6	[*2,*29,*29]	[*2,*29x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*2,*3,*61,Incomplete Match]	[*2,*3,*61,Incomplete Match]	[1.0,0.0,null,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*2,*3,Incomplete Match]	[*2,*3,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*2,*39,Incomplete Match]	[*2,*39,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0	0	0	0.0002107
+CYP2D6	[*2,*4,*4N,*4N]	[*2,*4,*4N,*4N]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*2,*4,*4N,Incomplete Match]	[*2,*4,*4N,Incomplete Match]	[1.0,0.0,0.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*2,*4,*68,*68,Incomplete Match]	[*2,*4,*68,*68,Incomplete Match]	[1.0,0.0,0.0,0.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*2,*49]	[*2,*49]	[1.0,0.5]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0	0	0.001031	0	0	0
+CYP2D6	[*2,*6,*6]	[*2,*6x2]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*22,*28]	[*22,*28]	[null,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*28,*59]	[*28,*59]	[null,0.5]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*29,*29,chr22:42130638:G:A,Incomplete Match]	[*29x2,chr22:42130638:G:A,Incomplete Match]	[0.5,0.5,0.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*29,*33]	[*29,*33]	[0.5,1.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*29,*43]	[*29,*43]	[0.5,null]	Unknown	Unknown	2.43e-05	0.0002107	0.001254	0	0	0	0	0
+CYP2D6	[*3,*108]	[*3,*108]	[0.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*3,*35,Incomplete Match]	[*3,*35,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*3,*4,*4]	[*3,*4x2]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*3,*41,chr22:42126918:GT:G]	[*3,*41,chr22:42126918:GT:G]	[0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*3,*45]	[*3,*45]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0	0	0	0.0002107
+CYP2D6	[*31,*35]	[*31,*35]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*31,*41]	[*31,*41]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*32,*41]	[*32,*41]	[null,0.5]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*33,*108]	[*33,*108]	[1.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*33,*35,*35]	[*33,*35x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*33,*39]	[*33,*39]	[1.0,1.0]	NM	Normal/Routine/Low Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*33,*61]	[*33,*61,*5]	[1.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*34,*35]	[*34,*35]	[1.0,1.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0001054	0.000627	0	0	1.53e-05	0	0
+CYP2D6	[*35,*108,Incomplete Match]	[*35,*108,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*35,*45]	[*35,*45]	[1.0,1.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0	0	0	0	0	0.0002107
+CYP2D6	[*35,*68,Incomplete Match]	[*35,*68,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*35,*74]	[*35,*74]	[1.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*36,*41]	[*36,*41,*5]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0.0005155	0	0	0.0001054
+CYP2D6	[*39,*46]	[*39,*46]	[1.0,1.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*39,*68,*68,Incomplete Match]	[*39,*68,*68,Incomplete Match]	[1.0,0.0,0.0,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*4,*10,*10,*68,*68]	[*4,*10x2,*68,*68]	[0.0,0.25,0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0.0005155	0	0	0.0001054
+CYP2D6	[*4,*14]	[*4,*14]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0.0005155	0	0	0.0001054
+CYP2D6	[*4,*14,*68]	[*4,*14,*68]	[0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0.0003061	0	0	0	0.0001054
+CYP2D6	[*4,*17,Incomplete Match]	[*4,*17,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*4,*19]	[*4,*19]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*4,*33,Incomplete Match]	[*4,*33,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*4,*39,*68,*68]	[*4,*39,*68,*68]	[0.0,1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*4,*4,*28]	[*4x2,*28]	[0.0,0.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0.0003061	0	0	0	0.0001054
+CYP2D6	[*4,*4,*35,*68]	[*4x2,*35,*68]	[0.0,0.0,1.0,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*4,*4,*4,*17]	[*4x3,*17]	[0.0,0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0.001254	0	0	0	0	0
+CYP2D6	[*4,*4,*4,*4N]	[*4,*4x2,*4N]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*4,*4,*4,Incomplete Match]	[*4x3,Incomplete Match]	[0.0,0.0,0.0,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*4,*4,*41,*68]	[*4x2,*41,*68]	[0.0,0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*4,*4,*41,*68,Incomplete Match]	[*4x2,*41,*68,Incomplete Match]	[0.0,0.0,0.5,0.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*4,*43,Incomplete Match]	[*4,*43,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*4,*46]	[*4,*46]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*4,*49,*68]	[*4,*49,*68]	[0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*4,*4N,*4N]	[*4,*4N,*4N,*5]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	2.43e-05	0.0001054	0	0	0	1.53e-05	0	0.0001054
+CYP2D6	[*4,*4N,*59]	[*4,*4N,*59]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*4,*68,*108,Incomplete Match]	[*4,*68,*108,Incomplete Match]	[0.0,0.0,null,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*4,*68,*112]	[*4,*68,*112]	[0.0,0.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*4,*7,*68]	[*4,*7,*68]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*4,*84]	[*4,*84]	[0.0,null]	Unknown	Unknown	2.43e-05	0.0001054	0.000627	0	0	1.53e-05	0	0
+CYP2D6	[*4,*86]	[*4,*86]	[0.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0	0	0.003185	0
+CYP2D6	[*4,*9,Incomplete Match]	[*4,*9,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*41,*111]	[*41,*111]	[0.5,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0	0	0.001592	0.0001054
+CYP2D6	[*41,*41,*41]	[*41,*41x2]	[0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*41,*46]	[*41,*46]	[0.5,1.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*41,*49]	[*41,*49]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0	0	0	0.0002107
+CYP2D6	[*41,*59,Incomplete Match]	[*41,*59,Incomplete Match]	[0.5,0.5,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*41,*68]	[*41,*68,*5]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*41,*68,Incomplete Match]	[*41,*68,Incomplete Match]	[0.5,0.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*41,*86,Incomplete Match]	[*41,*86,Incomplete Match]	[0.5,null,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0	0	0.003185	0
+CYP2D6	[*41,*94]	[*41,*94]	[0.5,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0.001031	0	0	0
+CYP2D6	[*43,*106]	[*43,*106]	[null,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0.0003061	0	0	0	0.0001054
+CYP2D6	[*43,*43]	[*43,*43]	[null,null]	Unknown	Unknown	2.43e-05	0.0002107	0.001254	0	0	0	0	0
+CYP2D6	[*45,*106]	[*45,*106]	[1.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0.000627	0	0	0	0	0.0001054
+CYP2D6	[*45,*84]	[*45,*84]	[1.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0	0	0	0.0002107
+CYP2D6	[*4N,*41]	[*4N,*41,*5]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*5,*27]	[*5,*27]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*5,*36]	[*5,*36,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0	0.0005155	0	0	0.0001054
+CYP2D6	[*5,*43]	[*5,*43]	[0.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0.000627	0	0	0	0.001592	0
+CYP2D6	[*5,*53]	[*5,*53]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0.0002107	0	0.0006122	0	0	0	0
+CYP2D6	[*5,*62]	[*5,*62]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*5,*71]	[*5,*71]	[0.0,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0.001031	0	0	0
+CYP2D6	[*59,*59]	[*59,*59]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*6,*108]	[*6,*108]	[0.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*6,*35,*35]	[*6,*35x2]	[0.0,1.0,1.0]	NM	Normal/Routine/Low Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*65,*74,Incomplete Match]	[*65,*74,Incomplete Match]	[null,null,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*69,*74,Incomplete Match]	[*69,*74,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*9,*13]	[*9,*13,*5]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*9,*35,Incomplete Match]	[*9,*35,Incomplete Match]	[0.5,1.0,null]	Unknown	Unknown	2.43e-05	0	0	0	0	3.06e-05	0	0
+CYP2D6	[*9,*43]	[*9,*43]	[0.5,null]	Unknown	Unknown	2.43e-05	0.0002107	0	0	0	0	0	0.0002107
+CYP2D6	[*9,*53]	[*9,*53]	[0.5,1.0]	NM	Normal/Routine/Low Risk	2.43e-05	0.0001054	0	0.0003061	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*1,*1,*1,*1]	[*1,*1x5]	[1.0,1.0,1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*1,*1,*1,*41]	[*1x5,*41]	[1.0,1.0,1.0,1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*1,*1,*1,*1,*33]	[*1x4,*33]	[1.0,1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*1,*1,*35]	[*1x4,*35]	[1.0,1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*1,*1,*4,*68]	[*1x4,*4,*68]	[1.0,1.0,1.0,1.0,0.0,0.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*1,*1,*4,*68,Incomplete Match]	[*1x4,*4,*68,Incomplete Match]	[1.0,1.0,1.0,1.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*1,*10,Incomplete Match]	[*1x3,*10,Incomplete Match]	[1.0,1.0,1.0,0.25,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*1,*14]	[*1x3,*14]	[1.0,1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*1,*1,*1,*17]	[*1x3,*17]	[1.0,1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*1,*1,*1,*2,*2]	[*1x3,*2x2]	[1.0,1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*1,*1,*1,*35]	[*1x3,*35]	[1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*1,*68]	[*1,*1x2,*68]	[1.0,1.0,1.0,0.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*10,*10]	[*1x2,*10x2]	[1.0,1.0,0.25,0.25]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*11]	[*1x2,*11]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*2,*2,*2]	[*1x2,*2x3]	[1.0,1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*1,*2,*2,Incomplete Match]	[*1x2,*2x2,Incomplete Match]	[1.0,1.0,1.0,1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*1,*1,*28,*63,Incomplete Match]	[*1x2,*28,*63,Incomplete Match]	[1.0,1.0,null,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*1,*1,*35,*35]	[*1x2,*35x2]	[1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*39,Incomplete Match]	[*1x2,*39,Incomplete Match]	[1.0,1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*4,*4,*4]	[*1x2,*4x3]	[1.0,1.0,0.0,0.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*4,*68,*68]	[*1x2,*4,*68,*68]	[1.0,1.0,0.0,0.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*41,Incomplete Match]	[*1x2,*41,Incomplete Match]	[1.0,1.0,0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*1,*41,chr22:42128198:C:CTCAG]	[*1x2,*41,chr22:42128198:C:CTCAG]	[1.0,1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*42]	[*1x2,*42]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*1,*45]	[*1x2,*45]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*1,*1,*46]	[*1x2,*46]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*1,*1,*4N,*39]	[*1x2,*4N,*39]	[1.0,1.0,0.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*1,*1,*6,*6]	[*1x2,*6x2]	[1.0,1.0,0.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*68]	[*1,*1,*68]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*7]	[*1x2,*7]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*71]	[*1x2,*71]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,*74]	[*1x2,*74]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*1,*1,chr22:42127446:C:A]	[*1,*1,chr22:42127446:C:A]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,chr22:42127947:TC:T]	[*1,*1,chr22:42127947:TC:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*1,chr22:42128215:G:GGGGCT]	[*1,*1,chr22:42128215:G:GGGGCT]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,chr22:42128231:CCAGGTCATCCTGTGCTCAGTTAG:C]	[*1,*1,chr22:42128231:CCAGGTCATCCTGTGCTCAGTTAG:C]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,chr22:42128269:G:A]	[*1,*1,chr22:42128269:G:A]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*1,*1,chr22:42128818:T:TC]	[*1,*1,chr22:42128818:T:TC]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*1,chr22:42128933:G:GA]	[*1,*1,chr22:42128933:G:GA]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*1,chr22:42129876:G:A]	[*1,*1,chr22:42129876:G:A]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*10,*61]	[*1,*10,*61]	[1.0,0.25,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*101]	[*1,*101]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*102]	[*1,*102]	[1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*107]	[*1,*107]	[1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*112,Incomplete Match]	[*1,*112,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*1,*14,*14]	[*1,*14x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*1,*17,chr22:42126914:CG:C]	[*1,*17,chr22:42126914:CG:C]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*1,*17,chr22:42128215:G:GGGGCT]	[*1,*17,chr22:42128215:G:GGGGCT]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*1,*17,chr22:42129859:CG:C]	[*1,*17,chr22:42129859:CG:C]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*1,*19]	[*1,*19]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*19,Incomplete Match]	[*1,*19,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*2,*2,chr22:42126980:TGA:T]	[*1,*2x2,chr22:42126980:TGA:T]	[1.0,1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*2,*4N]	[*1,*2,*4N]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*2,*61]	[*1,*2,*61]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*2,*68]	[*1,*2,*68]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*2,chr22:42126965:A:ATGAC]	[*1,*2,chr22:42126965:A:ATGAC]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*2,chr22:42127895:G:T]	[*1,*2,chr22:42127895:G:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*2,chr22:42128173:C:G]	[*1,*2,chr22:42128173:C:G]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*2,chr22:42128200:C:CA]	[*1,*2,chr22:42128200:C:CA]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*1,*2,chr22:42128800:G:T]	[*1,*2,chr22:42128800:G:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*1,*2,chr22:42129166:A:C]	[*1,*2,chr22:42129166:A:C]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*2,chr22:42130705:C:T]	[*1,*2,chr22:42130705:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*21,Incomplete Match]	[*1,*21,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*22,*22]	[*1,*22x2]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*23]	[*1,*23]	[1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*1,*23,chr22:42126980:TGA:T]	[*1,*23,chr22:42126980:TGA:T]	[1.0,null,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*27,Incomplete Match]	[*1,*27,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*28,*28,*28]	[*1,*28x3]	[1.0,null,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*28,chr22:42127607:A:AC]	[*1,*28,chr22:42127607:A:AC]	[1.0,null,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*29,chr22:42130638:G:A]	[*1,*29,chr22:42130638:G:A]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*1,*3,*3,*3]	[*1,*3x3]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*3,chr22:42126980:TGA:T]	[*1,*3,chr22:42126980:TGA:T]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*30]	[*1,*30]	[1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*33,Incomplete Match]	[*1,*33,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*35,*61]	[*1,*35,*61]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*35,chr22:42126914:CG:C]	[*1,*35,chr22:42126914:CG:C]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*35,chr22:42127841:C:T]	[*1,*35,chr22:42127841:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*35,chr22:42128783:C:A]	[*1,*35,chr22:42128783:C:A]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*36,*39]	[*1,*36,*39]	[1.0,0.0,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*36,*49]	[*1,*36,*49]	[1.0,0.0,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*1,*39,*39]	[*1,*39x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*1,*4,*4,*4,*4]	[*1,*4x4]	[1.0,0.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*1,*4,*4,*4,*4,*4]	[*1,*4x5]	[1.0,0.0,0.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*4,*4,Incomplete Match]	[*1,*4x2,Incomplete Match]	[1.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*4,*4,chr22:42127449:T:TA]	[*1,*4x2,chr22:42127449:T:TA]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*4,*4N,*68]	[*1,*4,*4N,*68]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*4,*68,*68,chr22:42126980:TGA:T]	[*1,*4,*68,*68,chr22:42126980:TGA:T]	[1.0,0.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*4,*68,chr22:42126992:C:CTGT]	[*1,*4,*68,chr22:42126992:C:CTGT]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*4,*68,chr22:42128215:G:GGGGCT]	[*1,*4,*68,chr22:42128215:G:GGGGCT]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*40,Incomplete Match]	[*1,*40,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*41,*63,Incomplete Match]	[*1,*41,*63,Incomplete Match]	[1.0,0.5,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*1,*41,chr22:42126914:CG:C]	[*1,*41,chr22:42126914:CG:C]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*41,chr22:42127545:C:CGGCAGTGG]	[*1,*41,chr22:42127545:C:CGGCAGTGG]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*41,chr22:42127873:G:GCC,chr22:42127874:A:ATGCGT,chr22:42127876:G:GAGACC]	[*1,*41,chr22:42127873:G:GCC,chr22:42127874:A:ATGCGT,chr22:42127876:G:GAGACC]	[1.0,0.5,0.0,0.0,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*41,chr22:42128818:T:TC,Incomplete Match]	[*1,*41,chr22:42128818:T:TC,Incomplete Match]	[1.0,0.5,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*1,*41,chr22:42129781:A:AGGCG]	[*1,*41,chr22:42129781:A:AGGCG]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*45,*45]	[*1,*45x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*4N,*39]	[*1,*4N,*39]	[1.0,0.0,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*5,chr22:42130614:G:A,chr22:42130614:G:A]	[*1,*5,chr22:42130614:G:A,chr22:42130614:G:A]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*52,Incomplete Match]	[*1,*52,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*59,*59]	[*1,*59x2]	[1.0,0.5,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*59,chr22:42126693:AG:A]	[*1,*59,chr22:42126693:AG:A]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*59,chr22:42126980:TGA:T]	[*1,*59,chr22:42126980:TGA:T]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*6,*6,*6]	[*1,*6x3]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*68,*68]	[*1,*68,*68,*5]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*68,*68,Incomplete Match]	[*1,*68,*68,Incomplete Match]	[1.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*69]	[*1,*69]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*7,Incomplete Match]	[*1,*7,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*1,*71,*71]	[*1,*71x2]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*1,*71,Incomplete Match]	[*1,*71,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*1,*72]	[*1,*72]	[1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*75]	[*1,*75]	[1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*1,*83]	[*1,*83,*5]	[1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*84,Incomplete Match]	[*1,*84,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*86]	[*1,*86]	[1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*1,*86,Incomplete Match]	[*1,*86,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*1,*9,*61]	[*1,*9,*61]	[1.0,0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*9,chr22:42129736:G:A]	[*1,*9,chr22:42129736:G:A]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*95,Incomplete Match]	[*1,*95,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*1,*96]	[*1,*96]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*10,*10,*10,*10,*36,*36]	[*10,*10x4,*36,*36]	[0.25,0.25,0.25,0.25,0.25,0.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*10,*10,*35]	[*10x3,*35]	[0.25,0.25,0.25,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*10,*10,*10,*36,chr22:42127481:CGGGATGTCAT:C]	[*10,*10x2,*36]	[0.25,0.25,0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*10,*14]	[*10x2,*14]	[0.25,0.25,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*10,*35]	[*10x2,*35]	[0.25,0.25,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*10,*10,*36,*36,chr22:42127841:C:T]	[*10,*10,*36,*36,chr22:42127841:C:T]	[0.25,0.25,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*10,*10,*36,*56]	[*10x2,*36,*56]	[0.25,0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*10,*36,Incomplete Match]	[*10x2,*36,Incomplete Match]	[0.25,0.25,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*10,*36,chr22:42127481:CGGGATGTCAT:C]	[*10,*10,*36,chr22:42127481:CGGGATGTCAT:C]	[0.25,0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*10,*63,*65]	[*10x2,*63,*65]	[0.25,0.25,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*10,Incomplete Match]	[*10x2,Incomplete Match]	[0.25,0.25,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*10,*112]	[*10,*112]	[0.25,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*12]	[*10,*12]	[0.25,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*10,*13]	[*10,*13,*5]	[0.25,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*10,*15]	[*10,*15]	[0.25,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*10,*15,*36]	[*10,*15,*36]	[0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*18]	[*10,*18]	[0.25,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*21]	[*10,*21]	[0.25,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*21,*36]	[*10,*21,*36]	[0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*22]	[*10,*22]	[0.25,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*10,*22,*36]	[*10,*22,*36]	[0.25,null,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*10,*29,*29,*36,*36]	[*10,*29x2,*36,*36]	[0.25,0.5,0.5,0.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*10,*33,*36,*36]	[*10,*33,*36,*36]	[0.25,1.0,0.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*10,*35,*68]	[*10,*35,*68]	[0.25,1.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*10,*35,Incomplete Match]	[*10,*35,Incomplete Match]	[0.25,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*10,*36,*107]	[*10,*36,*107]	[0.25,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*36,*40]	[*10,*36,*40]	[0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*10,*36,*53]	[*10,*36,*53]	[0.25,0.0,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*36,*59]	[*10,*36,*59]	[0.25,0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*10,*36,*61]	[*10,*36,*61,*5]	[0.25,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*36,*75]	[*10,*36,*75]	[0.25,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*36,*94]	[*10,*36,*94]	[0.25,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*36,Incomplete Match]	[*10,*36,Incomplete Match]	[0.25,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*36,chr22:42128818:T:TC,Incomplete Match]	[*10,*36,chr22:42128818:T:TC,Incomplete Match]	[0.25,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*39]	[*10,*39]	[0.25,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*10,*39,Incomplete Match]	[*10,*39,Incomplete Match]	[0.25,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*10,*40]	[*10,*40]	[0.25,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*10,*41,*68]	[*10,*41,*68]	[0.25,0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*10,*45,Incomplete Match]	[*10,*45,Incomplete Match]	[0.25,1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*10,*53]	[*10,*53]	[0.25,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*10,*53,*53]	[*10,*53x2]	[0.25,1.0,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*10,*74]	[*10,*74]	[0.25,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*10,*86]	[*10,*86]	[0.25,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*10,*86,Incomplete Match]	[*10,*86,Incomplete Match]	[0.25,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*11,*39]	[*11,*39]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*12,*41]	[*12,*41]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*12,*45]	[*12,*45]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*12,*45,Incomplete Match]	[*12,*45,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*13,*29,Incomplete Match]	[*13,*29,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*13,*33,Incomplete Match]	[*13,*33,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*13,*35]	[*13,*35,*5]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*13,*35,Incomplete Match]	[*13,*35,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*14,*35]	[*14,*35]	[0.5,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*14,*49]	[*14,*49]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*14,*71]	[*14,*71]	[0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*15,*29]	[*15,*29]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*15,*35]	[*15,*35]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*15,*35,Incomplete Match]	[*15,*35,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*17,*17,*17]	[*17,*17x2]	[0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*17,*17,*29]	[*17x2,*29]	[0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*17,*17,*34]	[*17x2,*34]	[0.5,0.5,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*17,*17,*35]	[*17x2,*35]	[0.5,0.5,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*17,*22]	[*17,*22]	[0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*17,*27]	[*17,*27]	[0.5,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*17,*28]	[*17,*28]	[0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*17,*29,*29]	[*17,*29x2]	[0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*17,*36]	[*17,*36,*5]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*17,*39]	[*17,*39]	[0.5,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*17,*42]	[*17,*42]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*17,*45,chr22:42129859:CG:C]	[*17,*45,chr22:42129859:CG:C]	[0.5,1.0,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*17,*53]	[*17,*53]	[0.5,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*17,*58]	[*17,*58]	[0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*17,*63]	[*17,*63,*5]	[0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*17,*74,Incomplete Match]	[*17,*74,Incomplete Match]	[0.5,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*10,Incomplete Match]	[*2,*10,Incomplete Match]	[1.0,0.25,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*109]	[*2,*109]	[1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*13,*17,Incomplete Match]	[*2,*13,*17,Incomplete Match]	[1.0,0.0,0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*13,*33,Incomplete Match]	[*2,*13,*33,Incomplete Match]	[1.0,0.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*13,*35,Incomplete Match]	[*2,*13,*35,Incomplete Match]	[1.0,0.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*13,*41]	[*2,*13,*41]	[1.0,0.0,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*13,*49,Incomplete Match]	[*2,*13,*49,Incomplete Match]	[1.0,0.0,0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*17,chr22:42128200:C:CA]	[*2,*17,chr22:42128200:C:CA]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*17,chr22:42128927:T:TGAAAGGGGCGAAAGGGGCGAAA]	[*2,*17,chr22:42128927:T:TGAAAGGGGCGAAAGGGGCGAAA]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*2,*2,*13,Incomplete Match]	[*2x2,*13,Incomplete Match]	[1.0,1.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*2,*15,Incomplete Match]	[*2x2,*15,Incomplete Match]	[1.0,1.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*2,*2,*106]	[*2x3,*106]	[1.0,1.0,1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*2,*2,*28]	[*2x3,*28]	[1.0,1.0,1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*2,*2,*33]	[*2x3,*33]	[1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*2,*2,*4,*68,*68]	[*2x3,*4,*68,*68]	[1.0,1.0,1.0,0.0,0.0,0.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*2,*2,*4,Incomplete Match]	[*2x3,*4,Incomplete Match]	[1.0,1.0,1.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*2,*27]	[*2x2,*27]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*2,*35,chr22:42128782:A:C]	[*2x2,*35,chr22:42128782:A:C]	[1.0,1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*2,*36]	[*2,*2,*36]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*2,*2,*36,*65]	[*2x2,*36,*65]	[1.0,1.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*2,*39,*68]	[*2x2,*39,*68]	[1.0,1.0,1.0,0.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*2,*2,*4,*13]	[*2x2,*4,*13]	[1.0,1.0,0.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*2,*4,*13,Incomplete Match]	[*2x2,*4,*13,Incomplete Match]	[1.0,1.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*2,*41,Incomplete Match]	[*2x2,*41,Incomplete Match]	[1.0,1.0,0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*2,*41,chr22:42128326:G:GC,chr22:42128327:GAGGA:G]	[*2x2,*41,chr22:42128326:G:GC,chr22:42128327:GAGGA:G]	[1.0,1.0,0.5,0.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*2,*42]	[*2x2,*42]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*2,*2,*58]	[*2x2,*58]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*2,*2,*63]	[*2,*2,*63]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*2,*68]	[*2,*2,*68]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*2,*2,*86,Incomplete Match]	[*2x2,*86,Incomplete Match]	[1.0,1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*2,*22,*22]	[*2,*22x2]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*28,*28]	[*2,*28x2]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*28,Incomplete Match]	[*2,*28,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*2,*3,*3]	[*2,*3x2]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*33,Incomplete Match]	[*2,*33,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*34]	[*2,*34]	[1.0,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*35,*68,Incomplete Match]	[*2,*35,*68,Incomplete Match]	[1.0,1.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*35,chr22:42128173:C:T]	[*2,*35,chr22:42128173:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*35,chr22:42128200:C:CA]	[*2,*35,chr22:42128200:C:CA]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*2,*36,*36]	[*2,*36,*36,*5]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*2,*36,*39]	[*2,*36,*39]	[1.0,0.0,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*2,*4,*4,*4]	[*2,*4x3]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*2,*4,*4,*4,*68,Incomplete Match]	[*2,*4x3,*68,Incomplete Match]	[1.0,0.0,0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*4,*4,*68]	[*2,*4x2,*68]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*4,*4,Incomplete Match]	[*2,*4x2,Incomplete Match]	[1.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*4,*68,chr22:42127845:G:A]	[*2,*4,*68,chr22:42127845:G:A]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*4,*68,chr22:42128211:CGGGG:C]	[*2,*4,*68,chr22:42128211:CGGGG:C]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*4,chr22:42127591:CCGCACCTGCCCTATCACGTCGT:C]	[*2,*4,chr22:42127591:CCGCACCTGCCCTATCACGTCGT:C]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*4,chr22:42128818:T:TC,Incomplete Match]	[*2,*4,chr22:42128818:T:TC,Incomplete Match]	[1.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*4,chr22:42128933:G:GA]	[*2,*4,chr22:42128933:G:GA]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*41,*61]	[*2,*41,*61]	[1.0,0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*41,chr22:42128326:G:GC,chr22:42128327:GAGGA:G]	[*2,*41,chr22:42128326:G:GC,chr22:42128327:GAGGA:G]	[1.0,0.5,0.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*41,chr22:42129824:TCG:T]	[*2,*41,chr22:42129824:TCG:T]	[1.0,0.5,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*43,*43]	[*2,*43x2]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*43,Incomplete Match]	[*2,*43,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*2,*4N,*43,Incomplete Match]	[*2,*4N,*43,Incomplete Match]	[1.0,0.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*4N,*68]	[*2,*4N,*68,*5]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*5,chr22:42128200:C:CA,chr22:42128200:C:CA]	[*2,*5,chr22:42128200:C:CA,chr22:42128200:C:CA]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*53,Incomplete Match]	[*2,*53,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*56]	[*2,*56]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*61]	[*2,*61,*5]	[1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*63]	[*2,*63,*5]	[1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*68,Incomplete Match]	[*2,*68,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*70,Incomplete Match]	[*2,*70,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*84,Incomplete Match]	[*2,*84,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*86]	[*2,*86]	[1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*2,*9,*13,Incomplete Match]	[*2,*9,*13,Incomplete Match]	[1.0,0.5,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*2,*9,*9,*9]	[*2,*9x3]	[1.0,0.5,0.5,0.5]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*2,*95]	[*2,*95]	[1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*21,*41]	[*21,*41]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*21,*41,Incomplete Match]	[*21,*41,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*21,*74,Incomplete Match]	[*21,*74,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*22,*22,*41]	[*22x2,*41]	[null,null,0.5]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*22,*29]	[*22,*29]	[null,0.5]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*22,*33]	[*22,*33]	[null,1.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*22,*59]	[*22,*59]	[null,0.5]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*22,*68]	[*22,*68,*5]	[null,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*22,*74]	[*22,*74]	[null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*23,*35]	[*23,*35]	[null,1.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*23,*41]	[*23,*41]	[null,0.5]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*23,*41,Incomplete Match]	[*23,*41,Incomplete Match]	[null,0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*24,*41]	[*24,*41]	[null,0.5]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*27,*35,Incomplete Match]	[*27,*35,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*27,*41,Incomplete Match]	[*27,*41,Incomplete Match]	[1.0,0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*28,*108]	[*28,*108]	[null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*28,*29]	[*28,*29]	[null,0.5]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*28,*35,*35]	[*28,*35x2]	[null,1.0,1.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*28,*35,Incomplete Match]	[*28,*35,Incomplete Match]	[null,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*28,*35,chr22:42129169:G:GCGCGCCAGGAA]	[*28,*35,chr22:42129169:G:GCGCGCCAGGAA]	[null,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*28,*84,Incomplete Match]	[*28,*84,Incomplete Match]	[null,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*29,*106,chr22:42130638:G:A]	[*29,*106,chr22:42130638:G:A]	[0.5,null,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*29,*108]	[*29,*108]	[0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*29,*29,*29,Incomplete Match]	[*29x3,Incomplete Match]	[0.5,0.5,0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*29,*29,*33]	[*29x2,*33]	[0.5,0.5,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*29,*29,*45]	[*29x2,*45]	[0.5,0.5,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*29,*29,*46]	[*29x2,*46]	[0.5,0.5,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*29,*36]	[*29,*36,*5]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*29,*40,Incomplete Match]	[*29,*40,Incomplete Match]	[0.5,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*29,*42]	[*29,*42]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*29,*46,Incomplete Match]	[*29,*46,Incomplete Match]	[0.5,1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*29,*59]	[*29,*59]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*29,*71]	[*29,*71]	[0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*29,*84,Incomplete Match]	[*29,*84,Incomplete Match]	[0.5,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*29,*89]	[*29,*89]	[0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*10,*68,*68]	[*3,*10,*68,*68]	[0.0,0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*10,Incomplete Match]	[*3,*10,Incomplete Match]	[0.0,0.25,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*11]	[*3,*11]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*13,Incomplete Match]	[*3,*13,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*19]	[*3,*19]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*3,*3,*3,*3,*3,*4,Incomplete Match]	[*3x5,*4,Incomplete Match]	[0.0,0.0,0.0,0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*3,*3,*3,*4,*68,Incomplete Match]	[*3x4,*4,*68,Incomplete Match]	[0.0,0.0,0.0,0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*3,*3,*61]	[*3,*3x2,*61]	[0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*3,*4]	[*3x2,*4]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*3,*61]	[*3,*3,*61]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*3,*9]	[*3x2,*9]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*33,Incomplete Match]	[*3,*33,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*4,*4,*4]	[*3,*4x3]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*41,*41]	[*3,*41x2]	[0.0,0.5,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*41,*41,*41]	[*3,*41x3]	[0.0,0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*43]	[*3,*43]	[0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*3,*46]	[*3,*46]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*3,*49]	[*3,*49]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*3,*6,*6]	[*3,*6x2]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*74]	[*3,*74]	[0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*3,*74,*74]	[*3,*74x2]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*31,*33]	[*31,*33]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*31,*45]	[*31,*45]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*31,*59]	[*31,*59]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*33,*106]	[*33,*106]	[1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*33,*108,Incomplete Match]	[*33,*108,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*33,*33,*61]	[*33,*33,*61]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*33,*35,chr22:42129034:GGAGTGGTTGGCGAAGGC:G]	[*33,*35,chr22:42129034:GGAGTGGTTGGCGAAGGC:G]	[1.0,1.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*33,*36]	[*33,*36,*5]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*33,*43]	[*33,*43]	[1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*33,*45]	[*33,*45]	[1.0,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*33,*74,Incomplete Match]	[*33,*74,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*34,*40]	[*34,*40]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*34,*41]	[*34,*41]	[1.0,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*34,*70,Incomplete Match]	[*34,*70,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*35,*106]	[*35,*106]	[1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*35,*106,*106]	[*35,*106x2]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*35,*106,chr22:42128200:C:CA]	[*35,*106,chr22:42128200:C:CA]	[1.0,null,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*35,*35,*35]	[*35,*35x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*35,*35,*68]	[*35,*35,*68]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*35,*35,Incomplete Match]	[*35x2,Incomplete Match]	[1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*35,*41,*41,*41]	[*35,*41x3]	[1.0,0.5,0.5,0.5]	UM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*35,*43,*63,Incomplete Match]	[*35,*43,*63,Incomplete Match]	[1.0,null,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*35,*46]	[*35,*46]	[1.0,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*35,*61]	[*35,*61,*5]	[1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*35,*62]	[*35,*62]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*35,*68]	[*35,*68,*5]	[1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*35,*68,*68,Incomplete Match]	[*35,*68,*68,Incomplete Match]	[1.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*35,*71]	[*35,*71]	[1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*35,*74,Incomplete Match]	[*35,*74,Incomplete Match]	[1.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*36,*36,*41]	[*36,*36,*41,*5]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*36,*41,*87,chr22:42127519:C:CCCAAA]	[*36,*41,*87,chr22:42127519:C:CCCAAA]	[0.0,0.5,null,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*36,*45]	[*36,*45,*5]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*39,*39,*41]	[*39x2,*41]	[1.0,1.0,0.5]	UM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*39,*57,Incomplete Match]	[*39,*57,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*39,*68,Incomplete Match]	[*39,*68,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*10,*10,*10,*10,*36,*61,Incomplete Match]	[*4,*10x4,*36,*61,Incomplete Match]	[0.0,0.25,0.25,0.25,0.25,0.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*10,*36,chr22:42127841:C:T]	[*4,*10,*36,chr22:42127841:C:T]	[0.0,0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*101]	[*4,*101]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*108,*108,Incomplete Match]	[*4,*108x2,Incomplete Match]	[0.0,null,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*111]	[*4,*111]	[0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*4,*112]	[*4,*112]	[0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*113]	[*4,*113]	[0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*4,*13]	[*4,*13,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*4,*15,*68]	[*4,*15,*68]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*15,Incomplete Match]	[*4,*15,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*4,*17,*17]	[*4,*17x2]	[0.0,0.5,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*17,*68,*68]	[*4,*17,*68,*68]	[0.0,0.5,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*4,*21]	[*4,*21]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*22,*22]	[*4,*22x2]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*22,*68,*68]	[*4,*22,*68,*68]	[0.0,null,0.0,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*23]	[*4,*23]	[0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*24,*68]	[*4,*24,*68]	[0.0,null,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*28,*68,*68]	[*4,*28,*68,*68]	[0.0,null,0.0,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*4,*29,*29]	[*4,*29x2]	[0.0,0.5,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*4,*30,*68]	[*4,*30,*68]	[0.0,null,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*31,*68]	[*4,*31,*68]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*33,*68,Incomplete Match]	[*4,*33,*68,Incomplete Match]	[0.0,1.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*35,*35,Incomplete Match]	[*4,*35x2,Incomplete Match]	[0.0,1.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*35,*61,*68,Incomplete Match]	[*4,*35,*61,*68,Incomplete Match]	[0.0,1.0,null,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*35,chr22:42128782:A:C]	[*4,*35,chr22:42128782:A:C]	[0.0,1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*17,Incomplete Match]	[*4x2,*17,Incomplete Match]	[0.0,0.0,0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*4,*4,*22]	[*4x2,*22]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*29,*29]	[*4x2,*29x2]	[0.0,0.0,0.5,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*4,*4,*31]	[*4x2,*31]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*36,*41,*68,Incomplete Match]	[*4x2,*36,*41,*68,Incomplete Match]	[0.0,0.0,0.0,0.5,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*39]	[*4x2,*39]	[0.0,0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*4,*36]	[*4,*4x2,*36]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*4,*4,*17]	[*4x4,*17]	[0.0,0.0,0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*4,*4,*4,*4,*4]	[*4,*4x4]	[0.0,0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*4,*4,*68]	[*4,*4x3,*68]	[0.0,0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*4,*4N,Incomplete Match]	[*4x3,*4N,Incomplete Match]	[0.0,0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*4,*61,Incomplete Match]	[*4x3,*61,Incomplete Match]	[0.0,0.0,0.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*4,*68,Incomplete Match]	[*4x3,*68,Incomplete Match]	[0.0,0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*4,*4,*41,Incomplete Match]	[*4x2,*41,Incomplete Match]	[0.0,0.0,0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*42]	[*4x2,*42]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*4,*43]	[*4x2,*43]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*4,*4,*43,*43]	[*4x2,*43x2]	[0.0,0.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*4,*4,*46]	[*4x2,*46]	[0.0,0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*4,*4,*4N,*35]	[*4x2,*4N,*35]	[0.0,0.0,0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*4N,*4N]	[*4,*4,*4N,*4N]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*4N,*4N,Incomplete Match]	[*4x2,*4N,*4N,Incomplete Match]	[0.0,0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*4N,*68,Incomplete Match]	[*4x2,*4N,*68,Incomplete Match]	[0.0,0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*59]	[*4x2,*59]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4,*61]	[*4,*4,*61]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*4,chr22:42128287:G:A]	[*4,*4,chr22:42128287:G:A]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*41,*41,*41]	[*4,*41x3]	[0.0,0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*41,*41,*68]	[*4,*41x2,*68]	[0.0,0.5,0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*41,*68,*68,Incomplete Match]	[*4,*41,*68,*68,Incomplete Match]	[0.0,0.5,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*41,chr22:42128326:G:GC,chr22:42128327:GAGGA:G]	[*4,*41,chr22:42128326:G:GC,chr22:42128327:GAGGA:G]	[0.0,0.5,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*43,*43,*68]	[*4,*43x2,*68]	[0.0,null,null,0.0]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*45,Incomplete Match]	[*4,*45,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*46,*68]	[*4,*46,*68]	[0.0,1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*49]	[*4,*49]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*4N,*10,*36]	[*4,*4N,*10,*36]	[0.0,0.0,0.25,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*4N,*108]	[*4,*4N,*108]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4N,*22]	[*4,*4N,*22]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4N,*22,*68]	[*4,*4N,*22,*68]	[0.0,0.0,null,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4N,*29]	[*4,*4N,*29]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*4N,*33,Incomplete Match]	[*4,*4N,*33,Incomplete Match]	[0.0,0.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4N,*41,*68,Incomplete Match]	[*4,*4N,*41,*68,Incomplete Match]	[0.0,0.0,0.5,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4N,*4N,*22]	[*4,*4N,*4N,*22]	[0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4N,*4N,*41]	[*4,*4N,*4N,*41]	[0.0,0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4N,*6,*6]	[*4,*4N,*6x2]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4N,*6,*6,Incomplete Match]	[*4,*4N,*6x2,Incomplete Match]	[0.0,0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*4N,*68]	[*4,*4N,*68,*5]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*52,*68,Incomplete Match]	[*4,*52,*68,Incomplete Match]	[0.0,null,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*53,*68,*68]	[*4,*53,*68,*68]	[0.0,1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*4,*54]	[*4,*54]	[0.0,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*56,*68]	[*4,*56,*68]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*4,*56,Incomplete Match]	[*4,*56,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*58]	[*4,*58]	[0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*59,*68,*68]	[*4,*59,*68,*68]	[0.0,0.5,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*59,Incomplete Match]	[*4,*59,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*59,chr22:42126693:AG:A]	[*4,*59,chr22:42126693:AG:A]	[0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*6,Incomplete Match]	[*4,*6,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*62,*68]	[*4,*62,*68]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*65,*65,Incomplete Match]	[*4,*65x2,Incomplete Match]	[0.0,null,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*68,*106]	[*4,*68,*106]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*68,*113]	[*4,*68,*113]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*4,*68,*68,Incomplete Match]	[*4,*68,*68,Incomplete Match]	[0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*68,*74]	[*4,*68,*74]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*68,*86,Incomplete Match]	[*4,*68,*86,Incomplete Match]	[0.0,0.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*68,*88,Incomplete Match]	[*4,*68,*88,Incomplete Match]	[0.0,0.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*68,*89]	[*4,*68,*89]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*70,Incomplete Match]	[*4,*70,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*4,*71]	[*4,*71]	[0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*72,Incomplete Match]	[*4,*72,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*74,Incomplete Match]	[*4,*74,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*86,Incomplete Match]	[*4,*86,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*4,*88,Incomplete Match]	[*4,*88,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*9,*68,Incomplete Match]	[*4,*9,*68,Incomplete Match]	[0.0,0.5,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*9,*9,*68]	[*4,*9x2,*68]	[0.0,0.5,0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4,*95]	[*4,*95]	[0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4,*95,Incomplete Match]	[*4,*95,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*40,*43]	[*40,*43]	[0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*40,*46]	[*40,*46]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*41,*101]	[*41,*101]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*41,*113]	[*41,*113]	[0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0.001592	0
+CYP2D6	[*41,*41,*56]	[*41x2,*56]	[0.5,0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*41,*41,chr22:42128198:C:CTCAG,Incomplete Match]	[*41x2,chr22:42128198:C:CTCAG,Incomplete Match]	[0.5,0.5,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*41,*43,*43]	[*41,*43x2]	[0.5,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*41,*43,Incomplete Match]	[*41,*43,Incomplete Match]	[0.5,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*41,*53]	[*41,*53]	[0.5,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*41,*53,*61,Incomplete Match]	[*41,*53,*61,Incomplete Match]	[0.5,1.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*41,*53,Incomplete Match]	[*41,*53,Incomplete Match]	[0.5,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*41,*58]	[*41,*58]	[0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*41,*63]	[*41,*63,*5]	[0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*41,*68,*68]	[*41,*68,*68,*5]	[0.5,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*41,*74]	[*41,*74]	[0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*41,*74,*74,Incomplete Match]	[*41,*74x2,Incomplete Match]	[0.5,null,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*41,*86]	[*41,*86]	[0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*41,*89]	[*41,*89]	[0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*41,*95,Incomplete Match]	[*41,*95,Incomplete Match]	[0.5,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*42,*43]	[*42,*43]	[0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*42,*45]	[*42,*45]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*43,*43,*43]	[*43,*43x2]	[null,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*43,*69]	[*43,*69]	[null,0.0]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*45,*108]	[*45,*108]	[1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*45,*45]	[*45,*45]	[1.0,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*46,*106]	[*46,*106]	[1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*4N,*10]	[*4N,*10,*5]	[0.0,0.25]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*4N,*10,*10,*10]	[*4N,*10,*10x2]	[0.0,0.25,0.25,0.25]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*4N,*10,*10,*36,*39]	[*4N,*10x2,*36,*39]	[0.0,0.25,0.25,0.0,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4N,*10,*68]	[*4N,*10,*68,*5]	[0.0,0.25,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4N,*39,*68]	[*4N,*39,*68,*5]	[0.0,1.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*4N,*5]	[*4N,*5,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*4N,*69,*88,Incomplete Match]	[*4N,*69,*88,Incomplete Match]	[0.0,0.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*5,*108,Incomplete Match]	[*5,*108,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*5,*11]	[*5,*11]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*5,*15]	[*5,*15]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*5,*17,Incomplete Match]	[*5,*17,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*5,*27,Incomplete Match]	[*5,*27,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*5,*28,Incomplete Match]	[*5,*28,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*5,*36,*36,Incomplete Match]	[*5,*36,*36,Incomplete Match]	[0.0,0.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*5,*39]	[*5,*39]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*5,*40,Incomplete Match]	[*5,*40,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*5,*42]	[*5,*42]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*5,*45,Incomplete Match]	[*5,*45,Incomplete Match]	[0.0,1.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*5,*57,Incomplete Match]	[*5,*57,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*5,*61]	[*5,*61,*5]	[0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*5,*68]	[*5,*68,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*5,*68,Incomplete Match]	[*5,*68,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*5,*7]	[*5,*7]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*5,*74,Incomplete Match]	[*5,*74,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*5,*84]	[*5,*84]	[0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*5,*86]	[*5,*86]	[0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*59,*74,Incomplete Match]	[*59,*74,Incomplete Match]	[0.5,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*108,Incomplete Match]	[*6,*108,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*13,Incomplete Match]	[*6,*13,Incomplete Match]	[0.0,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*15]	[*6,*15]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*29,*29]	[*6,*29x2]	[0.0,0.5,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*6,*34]	[*6,*34]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*41,*41]	[*6,*41x2]	[0.0,0.5,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*41,*41,*41]	[*6,*41x3]	[0.0,0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*41,Incomplete Match]	[*6,*41,Incomplete Match]	[0.0,0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*41,chr22:42127984:C:G]	[*6,*41,chr22:42127984:C:G]	[0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*45]	[*6,*45]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*6,*6,*17,Incomplete Match]	[*6x2,*17,Incomplete Match]	[0.0,0.0,0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*6,*33]	[*6x2,*33]	[0.0,0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*6,*35]	[*6x2,*35]	[0.0,0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*6,*7]	[*6x2,*7]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*7]	[*6,*7]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*6,*74,Incomplete Match]	[*6,*74,Incomplete Match]	[0.0,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*7,*28]	[*7,*28]	[0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*7,*33]	[*7,*33]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*74,*106,Incomplete Match]	[*74,*106,Incomplete Match]	[null,null,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*9,*10,*10]	[*9,*10x2]	[0.5,0.25,0.25]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*9,*10,*68,*68]	[*9,*10,*68,*68]	[0.5,0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*9,*10,Incomplete Match]	[*9,*10,Incomplete Match]	[0.5,0.25,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*9,*11]	[*9,*11]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*9,*12,Incomplete Match]	[*9,*12,Incomplete Match]	[0.5,0.0,null]	Unknown	Unknown	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*9,*14]	[*9,*14]	[0.5,0.5]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0.0005155	0	0	0
+CYP2D6	[*9,*15]	[*9,*15]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*9,*15,Incomplete Match]	[*9,*15,Incomplete Match]	[0.5,0.0,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*9,*36]	[*9,*36,*5]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0.000627	0	0	0	0	0
+CYP2D6	[*9,*40]	[*9,*40]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*9,*41,*41]	[*9,*41x2]	[0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*9,*45]	[*9,*45]	[0.5,1.0]	NM	Normal/Routine/Low Risk	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*9,*58]	[*9,*58]	[0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*9,*61]	[*9,*61,*5]	[0.5,null]	Unknown	Unknown	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*9,*68]	[*9,*68,*5]	[0.5,0.0]	IM	Abnormal/Priority/High Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*9,*9,*10]	[*9x2,*10]	[0.5,0.5,0.25]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*9,*9,*106]	[*9x2,*106]	[0.5,0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0.0003061	0	0	0	0
+CYP2D6	[*9,*9,*9]	[*9,*9x2]	[0.5,0.5,0.5]	NM	Normal/Routine/Low Risk	1.215e-05	0	0	0	0	1.53e-05	0	0
+CYP2D6	[*9,*9,Incomplete Match]	[*9x2,Incomplete Match]	[0.5,0.5,null]	Unknown	Unknown	1.215e-05	0.0001054	0	0	0	0	0	0.0001054
+CYP2D6	[*1,*1,*1,*1,*1,*2]	[*1x5,*2]	[1.0,1.0,1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*1,*1,*1,*1,*4]	[*1x5,*4]	[1.0,1.0,1.0,1.0,1.0,0.0]	UM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*1,*1,*1,*22]	[*1x4,*22]	[1.0,1.0,1.0,1.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*1,*1,*1,*61]	[*1,*1x3,*61]	[1.0,1.0,1.0,1.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*1,*1,*29,*29]	[*1x3,*29x2]	[1.0,1.0,1.0,0.5,0.5]	UM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*1,*1,*39]	[*1x3,*39]	[1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*1,*10,*61,*68]	[*1x2,*10,*61,*68]	[1.0,1.0,0.25,null,0.0]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*1,*40]	[*1x2,*40]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*1,*65]	[*1x2,*65]	[1.0,1.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*1,chr22:42127841:C:T]	[*1,*1,chr22:42127841:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*27,*27]	[*1,*27x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*27,*83]	[*1,*27,*83]	[1.0,1.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*34]	[*1,*34]	[1.0,1.0]	NM	Normal/Routine/Low Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*35,*35,*35]	[*1,*35x3]	[1.0,1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*4,*4,*4N]	[*1,*4x2,*4N]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*4,*4,*4N,*4N]	[*1,*4x2,*4N,*4N]	[1.0,0.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*1,*4N,*4N]	[*1,*4N,*4N,*5]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*10,*10,*10,*10,*10,*36,*36]	[*10,*10x5,*36,*36]	[0.25,0.25,0.25,0.25,0.25,0.25,0.0,0.0]	NM	Normal/Routine/Low Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*10,*10,*10,*36,*36,*94]	[*10x4,*36,*36,*94]	[0.25,0.25,0.25,0.25,0.0,0.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*10,*10,*10,*36,*61]	[*10,*10x3,*36,*61]	[0.25,0.25,0.25,0.25,0.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*10,*10,*36,*61]	[*10,*10x2,*36,*61]	[0.25,0.25,0.25,0.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*10,*21]	[*10x2,*21]	[0.25,0.25,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*10,*36,*36,chr22:42127519:C:CCCAAA]	[*10,*10,*36,*36,chr22:42127519:C:CCCAAA]	[0.25,0.25,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*10,*36,*68]	[*10,*10,*36,*68]	[0.25,0.25,0.0,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*10,*39]	[*10x2,*39]	[0.25,0.25,1.0]	NM	Normal/Routine/Low Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*10,*49]	[*10x2,*49]	[0.25,0.25,0.5]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*10,*61]	[*10,*10,*61]	[0.25,0.25,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*111]	[*10,*111]	[0.25,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*14,*14,*36]	[*10,*14x2,*36]	[0.25,0.5,0.5,0.0]	NM	Normal/Routine/Low Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*10,*43]	[*10,*43]	[0.25,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*13,*33]	[*13,*33,*5]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*17,*111]	[*17,*111]	[0.5,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*17,*74]	[*17,*74]	[0.5,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*13,*35]	[*2,*13,*35]	[1.0,0.0,1.0]	NM	Normal/Routine/Low Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*17,*63]	[*2,*17,*63]	[1.0,0.5,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*2,*10,*13,chr22:42128215:G:GGGGCT]	[*2x2,*10,*13,chr22:42128215:G:GGGGCT]	[1.0,1.0,0.25,0.0,0.0]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*2,*3,*63]	[*2x2,*3,*63]	[1.0,1.0,0.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*2,*34]	[*2x2,*34]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*28,*63]	[*2,*28,*63]	[1.0,null,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*3,*13]	[*2,*3,*13]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*33,*33]	[*2,*33x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*35,*68]	[*2,*35,*68]	[1.0,1.0,0.0]	NM	Normal/Routine/Low Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*4,*13]	[*2,*4,*13]	[1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*4,*4N,*68]	[*2,*4,*4N,*68]	[1.0,0.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*59,*61]	[*2,*59,*61]	[1.0,0.5,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*2,*9,*61]	[*2,*9,*61]	[1.0,0.5,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*28,*74]	[*28,*74]	[null,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*29,*74]	[*29,*74]	[0.5,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*3,*34]	[*3,*34]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*3,*61]	[*3,*61,*5]	[0.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*34,*34,*39]	[*34x2,*39]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*34,*39,*39]	[*34,*39x2]	[1.0,1.0,1.0]	UM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*35,*63]	[*35,*63,*5]	[1.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*39,*65,*65]	[*39,*65x2]	[1.0,null,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*4,*21,*68,*68]	[*4,*21,*68,*68]	[0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*4,*39,*39]	[*4,*39x2]	[0.0,1.0,1.0]	NM	Normal/Routine/Low Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*4,*4,*4,*4N,*68]	[*4,*4x2,*4N,*68]	[0.0,0.0,0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*4,*4,*61,*74]	[*4x2,*61,*74]	[0.0,0.0,null,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*4,*45,*68,*68]	[*4,*45,*68,*68]	[0.0,1.0,0.0,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*4,*4N,*39,*68]	[*4,*4N,*39,*68]	[0.0,0.0,1.0,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*4,*4N,*9,*68]	[*4,*4N,*9,*68]	[0.0,0.0,0.5,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*4,*61]	[*4,*61,*5]	[0.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*4,*74]	[*4,*74]	[0.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*43,*75]	[*43,*75]	[null,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*45,*74]	[*45,*74]	[1.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*4N,*10,*36]	[*4N,*10,*36,*5]	[0.0,0.25,0.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*4N,*22,*68]	[*4N,*22,*68,*5]	[0.0,null,0.0]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*4N,*27,*39]	[*4N,*27,*39]	[0.0,1.0,1.0]	NM	Normal/Routine/Low Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*4N,*41,*41]	[*4N,*41,*41]	[0.0,0.5,0.5]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*5,*113]	[*5,*113]	[0.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*5,*13]	[*5,*13,*5]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*5,*21]	[*5,*21]	[0.0,0.0]	PM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*5,*34]	[*5,*34]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*5,*63]	[*5,*63,*5]	[0.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*5,*74]	[*5,*74]	[0.0,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*6,*34,*34]	[*6,*34x2]	[0.0,1.0,1.0]	NM	Normal/Routine/Low Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*6,*6,*6]	[*6,*6x2]	[0.0,0.0,0.0]	PM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*6,*6,*9]	[*6x2,*9]	[0.0,0.0,0.5]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP2D6	[*65,*65,*74]	[*65x2,*74]	[null,null,null]	Unknown	Unknown	0	0	0	0	0	0	0	0
+CYP2D6	[*7,*34]	[*7,*34]	[0.0,1.0]	IM	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
+CYP4F2	[*1,*1]	[*1,*1]	[1.0,1.0]	non-carrier	Normal/Routine/Low Risk	0.5161	1.052	0.8306	0.5944	0.6094	0.4988	0.3485	0.5458
+CYP4F2	[*1,*3]	[*1,*3]	[1.0,0.5]	*3 carrier	Abnormal/Priority/High Risk	0.3999	0.6339	0.1597	0.357	0.3311	0.4128	0.4773	0.3763
+CYP4F2	[*3,*3]	[*3,*3]	[0.5,0.5]	*3 carrier	Abnormal/Priority/High Risk	0.08256	0.1162	0.008531	0.04507	0.05381	0.08734	0.1727	0.07537
+CYP4F2	[*1,*1,chr19:15892526:CA:C]	[*1,*1,chr19:15892526:CA:C]	[1.0,1.0,0.0]	Unknown	Unknown	0.0003136	0.001821	0	0.002062	0.0004374	0.0001319	0	0.001012
+CYP4F2	[*1,*3,chr19:15892526:CA:C]	[*1,*3,chr19:15892526:CA:C]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	0.0001045	0.0003035	0	0.0002946	0	8.795e-05	0	0.0002023
+CYP4F2	[*1,]	[*1,]	[1.0,0.0]	Unknown	Unknown	6.97e-05	0.000607	0	0	0.002187	0	0	0.0001012
+CYP4F2	[*1,*1,*1]	[*1,*1x2]	[1.0,1.0,1.0]	non-carrier	Normal/Routine/Low Risk	6.97e-05	0.0003035	0	0.0005891	0	4.398e-05	0	0.0001012
+CYP4F2	[*1,*3,chr19:15890338:GAC:G]	[*1,*3,chr19:15890338:GAC:G]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	6.97e-05	0	0	0	0	8.795e-05	0	0
+CYP4F2	[*3,*3,chr19:15895505:C:T]	[*3,*3,chr19:15895505:C:T]	[0.5,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	5.808e-05	0	0	0	0	7.329e-05	0	0
+CYP4F2	[*1,*1,chr19:15889692:TC:T]	[*1,*1,chr19:15889692:TC:T]	[1.0,1.0,0.0]	Unknown	Unknown	4.647e-05	0.0001012	0	0	0	4.398e-05	0	0.0001012
+CYP4F2	[*1,*1,chr19:15897501:C:T]	[*1,*1,chr19:15897501:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	3.485e-05	0.0003035	0	0	0.001312	0	0	0
+CYP4F2	[*1,*1,chr19:15897502:C:T]	[*1,*1,chr19:15897502:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	3.485e-05	0	0	0	0	4.398e-05	0	0
+CYP4F2	[*1,*3,chr19:15892308:C:T]	[*1,*3,chr19:15892308:C:T]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	3.485e-05	0.0001012	0	0	0	2.932e-05	0	0.0001012
+CYP4F2	[*3,]	[*3,]	[0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	3.485e-05	0.0003035	0	0	0.0008749	0	0	0.0001012
+CYP4F2	[*1,*1,*3]	[*1x2,*3]	[1.0,1.0,0.5]	*3 carrier	Abnormal/Priority/High Risk	2.323e-05	0	0	0	0	2.932e-05	0	0
+CYP4F2	[*1,*1,chr19:15878919:G:GCC,chr19:15878920:T:TGC]	[*1,*1,chr19:15878919:G:GCC,chr19:15878920:T:TGC]	[1.0,1.0,0.0,0.0]	Unknown	Unknown	2.323e-05	0	0	0	0	2.932e-05	0	0
+CYP4F2	[*1,*1,chr19:15890343:AT:A]	[*1,*1,chr19:15890343:AT:A]	[1.0,1.0,0.0]	Unknown	Unknown	2.323e-05	0	0	0	0	2.932e-05	0	0
+CYP4F2	[*1,*3,chr19:15892333:G:GA]	[*1,*3,chr19:15892333:G:GA]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	2.323e-05	0.0001012	0	0	0	1.466e-05	0	0.0001012
+CYP4F2	[*1,*3,chr19:15895505:C:T]	[*1,*3,chr19:15895505:C:T]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	2.323e-05	0	0	0	0	2.932e-05	0	0
+CYP4F2	[*1,*3,chr19:15895597:G:T]	[*1,*3,chr19:15895597:G:T]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	2.323e-05	0	0	0	0	2.932e-05	0	0
+CYP4F2	[*3,*3,chr19:15890338:GAC:G]	[*3,*3,chr19:15890338:GAC:G]	[0.5,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	2.323e-05	0	0	0	0	2.932e-05	0	0
+CYP4F2	[*1,,Incomplete Match]	[*1,,Incomplete Match]	[1.0,0.0,null]	Unknown	Unknown	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*1,chr19:15878863:CGCGGAAGCGCAGCA:C]	[*1,*1,chr19:15878863:CGCGGAAGCGCAGCA:C]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP4F2	[*1,*1,chr19:15878863:CGCGGAAGCGCAGCA:C,chr19:15878932:A:AAACATTCAAGAAGTGAAGAT]	[*1,*1,chr19:15878863:CGCGGAAGCGCAGCA:C,chr19:15878932:A:AAACATTCAAGAAGTGAAGAT]	[1.0,1.0,0.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0.0006094	0	0	0	0	0
+CYP4F2	[*1,*1,chr19:15879364:GGA:G]	[*1,*1,chr19:15879364:GGA:G]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*1,chr19:15879806:TG:T]	[*1,*1,chr19:15879806:TG:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*1,chr19:15885881:AATGAGAAGGTCTCAGGAAGAGGCCACAAGCACCTGCACTCACC:A]	[*1,*1,chr19:15885881:AATGAGAAGGTCTCAGGAAGAGGCCACAAGCACCTGCACTCACC:A]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*1,chr19:15886019:G:GT]	[*1,*1,chr19:15886019:G:GT]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP4F2	[*1,*1,chr19:15890349:G:A]	[*1,*1,chr19:15890349:G:A]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*1,chr19:15890419:G:GAGCT]	[*1,*1,chr19:15890419:G:GAGCT]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*1,chr19:15890434:C:T]	[*1,*1,chr19:15890434:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*1,chr19:15892437:C:T]	[*1,*1,chr19:15892437:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*1,chr19:15892533:C:T]	[*1,*1,chr19:15892533:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0	0.0002946	0	0	0	0
+CYP4F2	[*1,*1,chr19:15895651:C:T]	[*1,*1,chr19:15895651:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0	0	0.0004374	0	0	0
+CYP4F2	[*1,*1,chr19:15897422:G:A]	[*1,*1,chr19:15897422:G:A]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*1,chr19:15897435:C:T]	[*1,*1,chr19:15897435:C:T]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*1,chr19:15897452:GTT:G]	[*1,*1,chr19:15897452:GTT:G]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*1,chr19:15897516:GGCCAGGA:G]	[*1,*1,chr19:15897516:GGCCAGGA:G]	[1.0,1.0,0.0]	Unknown	Unknown	1.162e-05	0.0001012	0.0006094	0	0	0	0	0
+CYP4F2	[*1,*3,chr19:15878883:A:AGC]	[*1,*3,chr19:15878883:A:AGC]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*3,chr19:15878915:G:GA]	[*1,*3,chr19:15878915:G:GA]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP4F2	[*1,*3,chr19:15879345:C:G]	[*1,*3,chr19:15879345:C:G]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP4F2	[*1,*3,chr19:15879642:C:A]	[*1,*3,chr19:15879642:C:A]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP4F2	[*1,*3,chr19:15879670:T:G]	[*1,*3,chr19:15879670:T:G]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0.001515	0
+CYP4F2	[*1,*3,chr19:15879763:C:G]	[*1,*3,chr19:15879763:C:G]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP4F2	[*1,*3,chr19:15879857:T:A]	[*1,*3,chr19:15879857:T:A]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0.0002946	0	0	0	0
+CYP4F2	[*1,*3,chr19:15890343:AT:A]	[*1,*3,chr19:15890343:AT:A]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*3,chr19:15890349:G:A]	[*1,*3,chr19:15890349:G:A]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*3,chr19:15892437:C:T]	[*1,*3,chr19:15892437:C:T]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*3,chr19:15897501:C:T]	[*1,*3,chr19:15897501:C:T]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0.0004374	0	0	0
+CYP4F2	[*1,*3,chr19:15897502:C:T]	[*1,*3,chr19:15897502:C:T]	[1.0,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*3,*3,chr19:15879642:C:A]	[*3,*3,chr19:15879642:C:A]	[0.5,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*3,*3,chr19:15886296:T:A]	[*3,*3,chr19:15886296:T:A]	[0.5,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*3,*3,chr19:15892308:C:G]	[*3,*3,chr19:15892308:C:G]	[0.5,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*3,*3,chr19:15892308:C:T]	[*3,*3,chr19:15892308:C:T]	[0.5,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0.0001012	0	0	0	0	0	0.0001012
+CYP4F2	[*3,*3,chr19:15892402:C:T]	[*3,*3,chr19:15892402:C:T]	[0.5,0.5,0.0]	*3 carrier	Abnormal/Priority/High Risk	1.162e-05	0	0	0	0	1.466e-05	0	0
+CYP4F2	[*1,*3,*3]	[*1,*3x2]	[1.0,0.5,0.5]	*3 carrier	Abnormal/Priority/High Risk	0	0	0	0	0	0	0	0
